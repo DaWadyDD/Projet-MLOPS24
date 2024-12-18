@@ -1,9 +1,9 @@
 import os
 import pandas as pd
-from domain.decorators import log_return_shape
+from domain.decorators import log_function_call  # Importer le décorateur
 from typing import List
 
-@log_return_shape
+@log_function_call  # Appliquer le décorateur ici
 def extract(data_dir: str, prefix: str, x_values: List[int]) -> pd.DataFrame:
     """
     Préparer et concaténer les fichiers CSV au format 'german_credit_X.csv' 
@@ -28,7 +28,7 @@ def extract(data_dir: str, prefix: str, x_values: List[int]) -> pd.DataFrame:
         file_name = f'{prefix}_german_credit_{x}.csv'
         file_path = os.path.join(data_dir, 'batchs', file_name)
         if os.path.isfile(file_path):
+            # Log de chaque fichier chargé
             batch = pd.read_csv(file_path)
             df = pd.concat([df, batch], ignore_index=True, sort=True)
     return df
-
