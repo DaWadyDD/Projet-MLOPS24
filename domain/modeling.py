@@ -4,6 +4,8 @@ from sklearn.metrics import classification_report
 from sklearn.metrics import confusion_matrix
 import matplotlib.pyplot as plt
 import seaborn as sns
+import pandas as pd
+import numpy as np
 import plotly.express as px
 from sklearn.tree import plot_tree
 

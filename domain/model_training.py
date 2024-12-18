@@ -1,7 +1,9 @@
 import logging
-from domain.data_processing import encode_target, split_data, preprocess_data, cross_validate
-from domain.modeling import generate_predictions, evaluate_model
-from domain.visualization import plot_random_forest_tree, plot_feature_importances, plot_confusion_matrix
+import pandas as pd
+import sys
+sys.path.append('../tests')  # Ajustez le chemin relatif si nécessaire
+
+from forcast_test import encode_target, split_data, cross_validate, preprocess_data, generate_predictions, evaluate_model, plot_random_forest_tree, plot_feature_importances, plot_confusion_matrix, plot_roc_curve, plot_precision_recall_curve;
 
 # Configuration du logger
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
