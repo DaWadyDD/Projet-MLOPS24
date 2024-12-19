@@ -1,4 +1,4 @@
 # Documentation
 
-* [Set up](documentation/setup.md)
-* [Data](documentation/data.md)
+* [Set up](setup.md)
+* [Data](data.md)
