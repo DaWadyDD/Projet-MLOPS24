@@ -6,7 +6,7 @@
 
 * Through the jupyter notebook in /Notebooks/credit_risk
 
-* Through the .py file in domain /launcher.py
+* Through the .py file in /launcher.py
 
 The notebook contains more developed steps while the python file is a straightforward way to apply the whole project from importing the data to features engineering to modeling, visualization to then csv export.
 
