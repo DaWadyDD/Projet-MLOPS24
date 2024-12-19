@@ -6,4 +6,4 @@ This data is a simple data from of german bank credit, the goal to do model whil
 * Create an account and download the data set
 * add the file in 'data/raw'
 
-[Précédent](../README.md) | [Suivant](setup.md)>
+[Précédent](README.md) | [Suivant](setup.md)>
