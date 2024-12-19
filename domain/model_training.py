@@ -1,9 +1,17 @@
 import logging
 import pandas as pd
 import sys
-sys.path.append('../tests')  # Ajustez le chemin relatif si nécessaire
+import os
 
-from forcast_test import encode_target, split_data, cross_validate, preprocess_data, generate_predictions, evaluate_model, plot_random_forest_tree, plot_feature_importances, plot_confusion_matrix, plot_roc_curve, plot_precision_recall_curve;
+# Ajouter le chemin relatif pour accéder aux tests
+sys.path.append('../tests')
+
+# Importer les modules de configuration
+from settings.base import MODELS_DIR  # Importer MODELS_DIR depuis base.py
+
+# Importer toutes les fonctions du module domain.forcast
+from domain.forcast import encode_target, split_data, cross_validate, preprocess_data, generate_predictions, evaluate_model, plot_random_forest_tree, plot_feature_importances, plot_confusion_matrix, plot_roc_curve, plot_precision_recall_curve
+
 
 # Configuration du logger
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -12,7 +20,7 @@ logger = logging.getLogger(__name__)
 def train_and_evaluate_model(df: pd.DataFrame) -> None:
     """
     Fonction pour entraîner et évaluer un modèle de RandomForest sur les données passées en paramètre.
-    Elle effectue l'encodage, la séparation des données, l'entraînement et l'évaluation.
+    Elle effectue l'encodage, la séparation des données, l'entraînement, l'évaluation et la visualisation.
     
     Parameters
     ----------
@@ -60,7 +68,54 @@ def train_and_evaluate_model(df: pd.DataFrame) -> None:
 
         # Visualiser la courbe Précision/Rappel
         plot_precision_recall_curve(y_test, y_pred_prob)
+        
+        return y_test, y_pred, y_pred_prob
 
     except Exception as e:
         logger.error(f"Erreur lors de l'entraînement et de l'évaluation du modèle : {e}")
+        raise
+
+# Fonction pour exporter les prédictions
+def export_predictions(y_true, y_pred, y_pred_prob):
+    """
+    Fonction pour exporter les prédictions dans un fichier CSV avec un nom unique.
+    
+    Parameters
+    ----------
+    y_true : pd.Series
+        Les vraies valeurs de la cible.
+    y_pred : pd.Series
+        Les prédictions du modèle.
+    y_pred_prob : pd.Series
+        Les probabilités de la classe positive.
+    """
+    try:
+        logger.info("Début de l'exportation des prédictions.")
+
+        base_file_name = "predictions_on_true"
+        i = 1
+        file_name = f"{base_file_name}_{i}.csv"
+        output_path = os.path.join(MODELS_DIR, file_name)
+
+        # Vérifier si le fichier existe déjà, et incrémenter si nécessaire
+        while os.path.exists(output_path):
+            i += 1
+            file_name = f"{base_file_name}_{i}.csv"
+            output_path = os.path.join(MODELS_DIR, file_name)
+        
+        logger.info(f"Nom du fichier généré : {file_name}")
+        
+        # Créer un DataFrame avec les prédictions
+        predictions_df = pd.DataFrame({
+            'True Values': y_true,
+            'Predictions': y_pred,
+            'Predicted Probabilities': y_pred_prob
+        })
+        
+        # Sauvegarder le DataFrame dans un fichier CSV
+        predictions_df.to_csv(output_path, index=False)
+        logger.info(f"Prédictions exportées dans {output_path}.")
+        
+    except Exception as e:
+        logger.error(f"Erreur lors de l'exportation des prédictions : {e}")
         raise

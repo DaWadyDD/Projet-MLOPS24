@@ -1,9 +1,9 @@
 # Data
 
-This data is a simple data of german bank credit, the goal is to predict (Random Forest) the risk while applying some MLOPS concepts.
+This data is a simple dataset of german's bank credit, the goal is to predict (through a Random Forest model) the risk while applying some MLOPS concepts.
 
 * Download the data set here : https://www.kaggle.com/datasets/kabure/german-credit-data-with-risk/data ;
 * Create an account and download the data set ;
-* add the file in 'data/raw'.
+* Add the file in 'data/raw'.
 
 [Précédent](README.md) | [Suivant](setup.md)>

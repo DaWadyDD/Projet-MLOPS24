@@ -1,1001 +1,1001 @@
-Sex,Job,Housing,Purpose,Risk,Credit_Duration_Ratio,Age_Group
-male,2,own,radio/TV,good,194.83333333333334,Mature-Seniors
-female,2,own,radio/TV,bad,123.97916666666667,Young
-male,1,own,education,good,174.66666666666666,Mature-Seniors
-male,2,free,furniture/equipment,good,187.66666666666666,Mature-Seniors
-male,2,free,car,bad,202.91666666666666,Mature-Seniors
-male,1,free,education,good,251.52777777777777,Adults
-male,2,own,furniture/equipment,good,118.125,Mature-Seniors
-male,3,rent,car,good,193.0,Adults
-male,1,own,radio/TV,good,254.91666666666666,Mature-Seniors
-male,3,own,car,bad,174.46666666666667,Young
-female,2,rent,car,bad,107.91666666666667,Young
-female,2,rent,business,bad,89.75,Young
-female,2,own,radio/TV,good,130.58333333333334,Young
-male,1,own,car,bad,49.958333333333336,Mature-Seniors
-female,2,rent,car,good,93.53333333333333,Young
-female,1,own,radio/TV,bad,53.416666666666664,Adults
-male,2,own,radio/TV,good,101.0,Mature-Seniors
-male,2,own,business,good,269.06666666666666,Young
-female,3,free,car,bad,524.125,Mature-Seniors
-male,2,own,radio/TV,good,142.91666666666666,Adults
-male,2,own,car,good,237.11111111111111,Mature-Seniors
-male,2,rent,radio/TV,good,441.1666666666667,Mature-Seniors
-male,1,rent,car,good,224.1,Mature-Seniors
-male,2,own,car,good,150.33333333333334,Mature-Seniors
-male,2,own,furniture/equipment,good,206.9,Young
-male,1,own,furniture/equipment,good,229.0,Adults
-male,1,own,radio/TV,good,71.0,Adults
-female,2,rent,radio/TV,good,34.083333333333336,Mature-Seniors
-male,2,own,radio/TV,good,345.0,Adults
-male,2,own,business,bad,113.93333333333334,Mature-Seniors
-male,2,own,business,good,106.27777777777777,Adults
-male,2,own,furniture/equipment,good,167.5,Young
-male,2,own,car,good,325.8888888888889,Adults
-male,1,rent,business,good,105.33333333333333,Mature-Seniors
-female,3,own,furniture/equipment,good,122.83333333333333,Adults
-male,1,own,radio/TV,bad,105.46666666666667,Young
-male,2,free,education,good,127.29166666666667,Adults
-male,2,own,radio/TV,bad,116.66666666666667,Adults
-male,2,own,domestic appliances,good,122.5,Adults
-male,2,own,radio/TV,good,50.888888888888886,Young
-male,3,own,radio/TV,good,77.76666666666667,Adults
-male,2,own,radio/TV,good,96.5,Young
-male,1,own,repairs,good,344.6666666666667,Mature-Seniors
-male,2,rent,car,good,206.23333333333332,Young
-female,1,free,car,bad,127.97916666666667,Mature-Seniors
-female,3,own,car,good,126.63636363636364,Adults
-male,2,own,radio/TV,good,63.861111111111114,Adults
-female,0,rent,car,good,225.33333333333334,Young
-male,1,own,car,good,657.0909090909091,Adults
-female,2,own,radio/TV,good,172.75,Young
-male,1,own,furniture/equipment,good,97.20833333333333,Young
-male,3,own,car,good,220.92592592592592,Adults
-male,2,own,radio/TV,good,105.16666666666667,Young
-male,2,own,car,good,187.66666666666666,Adults
-male,2,free,car,bad,61.80555555555556,Mature-Seniors
-male,1,own,car,good,130.5,Young
-male,3,own,radio/TV,bad,539.0,Mature-Seniors
-female,2,own,radio/TV,good,265.72222222222223,Adults
-female,3,own,car,good,108.94444444444444,Young
-female,1,rent,furniture/equipment,bad,173.02777777777777,Young
-male,2,own,business,good,154.55555555555554,Young
-male,2,own,radio/TV,good,102.46666666666667,Mature-Seniors
-male,3,free,business,bad,54.25,Mature-Seniors
-male,2,own,business,bad,300.4375,Young
-female,2,own,radio/TV,good,132.54166666666666,Young
-male,2,own,repairs,good,192.22222222222223,Mature-Seniors
-female,2,own,radio/TV,good,180.91666666666666,Young
-male,2,own,car,good,83.91666666666667,Young
-male,2,free,education,bad,50.52777777777778,Adults
-female,2,own,radio/TV,good,66.5,Young
-female,2,own,car,good,225.91666666666666,Adults
-male,1,rent,radio/TV,good,104.28571428571429,Mature-Seniors
-male,3,free,vacation/others,good,145.5,Mature-Seniors
-female,1,own,business,good,141.76190476190476,Mature-Seniors
-male,3,own,education,bad,54.916666666666664,Mature-Seniors
-male,3,free,car,good,127.16666666666667,Mature-Seniors
-male,2,own,radio/TV,bad,94.4047619047619,Adults
-male,2,own,radio/TV,good,433.72727272727275,Mature-Seniors
-male,1,own,car,good,174.74074074074073,Adults
-male,2,own,furniture/equipment,good,127.73333333333333,Young
-female,2,own,radio/TV,bad,247.625,Mature-Seniors
-male,2,own,radio/TV,good,80.86666666666666,Mature-Seniors
-female,1,rent,business,good,87.11111111111111,Young
-female,1,own,vacation/others,good,73.125,Mature-Seniors
-male,1,own,radio/TV,good,231.5,Mature-Seniors
-female,3,own,business,good,117.66666666666667,Young
-female,2,own,furniture/equipment,good,71.94444444444444,Young
-male,2,free,education,bad,350.3333333333333,Mature-Seniors
-male,3,own,car,good,124.94444444444444,Adults
-male,2,own,repairs,bad,92.33333333333333,Young
-male,2,own,radio/TV,good,51.5,Mature-Seniors
-male,2,own,car,good,117.41666666666667,Mature-Seniors
-female,1,own,radio/TV,bad,66.41666666666667,Adults
-male,2,rent,furniture/equipment,good,150.70833333333334,Young
-male,2,own,car,good,109.83333333333333,Mature-Seniors
-male,2,rent,business,bad,295.27777777777777,Mature-Seniors
-female,2,own,education,good,167.66666666666666,Mature-Seniors
-male,2,own,business,good,145.66666666666666,Adults
-male,2,own,radio/TV,good,64.91666666666667,Adults
-male,3,rent,car,good,352.85,Adults
-male,1,rent,car,good,61.208333333333336,Mature-Seniors
-male,2,rent,radio/TV,good,64.52777777777777,Young
-female,2,own,radio/TV,good,155.33333333333334,Young
-male,2,rent,furniture/equipment,good,213.22222222222223,Adults
-male,2,rent,car,good,203.75,Young
-male,3,own,vacation/others,bad,497.4166666666667,Adults
-male,3,own,car,bad,358.77777777777777,Adults
-male,2,own,car,good,506.5,Adults
-female,2,own,furniture/equipment,good,321.7083333333333,Adults
-male,2,own,business,good,100.71428571428571,Adults
-male,2,own,business,good,241.5,Adults
-female,2,rent,education,good,26.133333333333333,Young
-male,1,rent,car,good,347.77777777777777,Young
-female,2,own,car,bad,218.19444444444446,Young
-male,2,own,radio/TV,good,140.0,Adults
-male,2,own,radio/TV,good,74.54166666666667,Mature-Seniors
-female,3,own,radio/TV,bad,170.8095238095238,Adults
-female,2,rent,furniture/equipment,good,213.2,Young
-female,2,own,furniture/equipment,bad,129.72727272727272,Young
-male,3,own,car,good,197.16666666666666,Adults
-female,2,own,radio/TV,bad,87.38095238095238,Young
-female,3,rent,car,good,161.16666666666666,Mature-Seniors
-male,1,rent,furniture/equipment,good,147.33333333333334,Young
-male,2,free,car,good,78.1,Mature-Seniors
-female,2,rent,furniture/equipment,bad,106.88888888888889,Young
-male,2,own,car,good,176.75,Adults
-male,1,own,radio/TV,good,58.416666666666664,Mature-Seniors
-male,2,own,repairs,bad,53.25,Adults
-male,3,own,car,good,155.0,Adults
-female,2,own,car,bad,291.5833333333333,Young
-female,2,own,car,good,176.8125,Young
-male,2,own,education,bad,191.30555555555554,Young
-male,1,own,furniture/equipment,good,180.53333333333333,Young
-male,2,free,furniture/equipment,good,110.22222222222223,Mature-Seniors
-female,2,own,radio/TV,good,169.06666666666666,Young
-female,2,own,radio/TV,good,103.33333333333333,Adults
-male,2,own,car,good,319.0,Young
-male,1,own,radio/TV,bad,63.833333333333336,Mature-Seniors
-male,2,own,radio/TV,good,181.86666666666667,Adults
-female,1,rent,radio/TV,good,156.75,Mature-Seniors
-male,0,own,car,good,118.16666666666667,Young
-female,3,own,radio/TV,good,133.19444444444446,Adults
-male,3,own,radio/TV,good,126.51851851851852,Young
-male,2,own,furniture/equipment,bad,136.77777777777777,Young
-female,2,own,furniture/equipment,good,108.95238095238095,Young
-male,2,own,business,good,74.29166666666667,Adults
-female,2,own,car,good,143.33333333333334,Adults
-female,2,own,car,good,56.833333333333336,Mature-Seniors
-male,2,own,furniture/equipment,good,149.19444444444446,Young
-male,2,own,radio/TV,good,87.88888888888889,Mature-Seniors
-male,2,free,radio/TV,good,224.33333333333334,Mature-Seniors
-male,2,own,radio/TV,good,192.4,Adults
-male,2,own,radio/TV,good,162.44444444444446,Young
-female,2,rent,car,good,323.25,Young
-male,3,rent,business,good,290.2916666666667,Adults
-female,2,rent,furniture/equipment,bad,106.83333333333333,Young
-male,2,own,repairs,good,143.11111111111111,Mature-Seniors
-male,1,own,education,good,28.25,Mature-Seniors
-male,2,own,car,good,146.33333333333334,Adults
-male,1,own,radio/TV,good,316.3333333333333,Adults
-male,2,own,radio/TV,good,119.66666666666667,Adults
-female,2,own,car,good,58.611111111111114,Adults
-male,2,own,domestic appliances,good,84.13333333333334,Adults
-male,3,free,car,good,730.8,Mature-Seniors
-male,2,own,car,good,25.25,Adults
-male,2,own,furniture/equipment,good,496.3333333333333,Adults
-female,2,own,furniture/equipment,bad,62.833333333333336,Adults
-female,2,own,furniture/equipment,good,143.36363636363637,Young
-female,2,rent,furniture/equipment,good,165.5,Young
-male,2,own,business,bad,80.625,Adults
-male,2,rent,car,bad,63.333333333333336,Adults
-female,2,own,furniture/equipment,good,63.583333333333336,Young
-female,3,own,furniture/equipment,bad,86.0,Adults
-male,2,own,radio/TV,good,176.75,Adults
-male,2,own,education,bad,162.57142857142858,Young
-female,3,own,car,bad,249.5,Mature-Seniors
-male,2,own,furniture/equipment,good,214.75,Mature-Seniors
-male,2,own,radio/TV,good,56.333333333333336,Mature-Seniors
-male,3,rent,radio/TV,good,163.58333333333334,Adults
-male,2,own,car,good,27.19047619047619,Mature-Seniors
-male,2,own,business,bad,265.8888888888889,Young
-male,3,own,business,bad,123.75,Adults
-male,1,own,car,bad,78.42857142857143,Mature-Seniors
-male,2,own,furniture/equipment,good,157.375,Mature-Seniors
-male,2,own,car,bad,49.111111111111114,Adults
-male,2,own,radio/TV,good,90.66666666666667,Adults
-female,3,free,car,bad,569.8888888888889,Mature-Seniors
-male,0,free,car,good,73.4375,Mature-Seniors
-male,2,own,radio/TV,bad,56.166666666666664,Young
-female,2,own,furniture/equipment,good,180.22222222222223,Adults
-male,3,own,business,bad,191.29166666666666,Mature-Seniors
-male,1,free,business,bad,80.08333333333333,Adults
-male,2,own,business,bad,145.0,Adults
-male,2,rent,radio/TV,good,351.3333333333333,Young
-male,2,rent,radio/TV,bad,67.35555555555555,Young
-female,3,own,education,bad,166.77777777777777,Adults
-female,2,own,radio/TV,good,230.33333333333334,Young
-female,2,rent,furniture/equipment,bad,79.25,Young
-male,2,free,car,good,115.0,Adults
-male,3,own,furniture/equipment,bad,238.72222222222223,Mature-Seniors
-male,2,own,education,good,104.0,Mature-Seniors
-male,1,own,car,good,97.33333333333333,Young
-male,2,own,business,good,189.5185185185185,Young
-male,2,rent,education,bad,75.16666666666667,Young
-male,1,own,car,good,124.58333333333333,Adults
-male,3,free,car,good,354.1,Adults
-male,2,own,furniture/equipment,good,161.25,Mature-Seniors
-male,2,own,domestic appliances,good,118.66666666666667,Young
-male,1,own,business,good,273.6666666666667,Young
-male,2,own,car,good,117.75,Mature-Seniors
-male,2,own,radio/TV,good,341.55555555555554,Adults
-female,1,own,radio/TV,good,106.52777777777777,Mature-Seniors
-male,2,own,business,bad,196.03703703703704,Mature-Seniors
-male,3,own,business,bad,63.6,Mature-Seniors
-male,2,own,radio/TV,good,92.83333333333333,Mature-Seniors
-female,1,own,education,good,155.33333333333334,Adults
-male,2,own,business,good,172.44444444444446,Adults
-male,2,own,radio/TV,good,108.69444444444444,Young
-male,1,rent,furniture/equipment,good,125.875,Young
-female,2,own,car,good,136.4,Mature-Seniors
-male,1,own,radio/TV,good,52.083333333333336,Young
-female,2,rent,education,good,100.0,Young
-male,2,own,radio/TV,good,58.916666666666664,Adults
-male,2,own,business,good,124.08333333333333,Adults
-male,2,own,car,good,310.46666666666664,Adults
-male,2,own,repairs,good,72.58333333333333,Young
-male,2,own,radio/TV,bad,228.35416666666666,Young
-male,3,free,furniture/equipment,bad,655.4166666666666,Mature-Seniors
-male,2,own,radio/TV,bad,164.22222222222223,Young
-male,2,free,furniture/equipment,good,131.20833333333334,Young
-male,2,own,radio/TV,bad,116.94444444444444,Young
-male,1,free,car,good,278.55555555555554,Mature-Seniors
-male,2,own,radio/TV,good,178.41666666666666,Adults
-male,1,own,radio/TV,good,48.111111111111114,Young
-male,1,own,radio/TV,good,386.0,Mature-Seniors
-male,3,own,radio/TV,bad,75.95833333333333,Adults
-male,0,own,car,bad,2425.8333333333335,Young
-male,1,rent,business,bad,131.76190476190476,Mature-Seniors
-female,2,own,radio/TV,good,107.58333333333333,Adults
-male,2,own,radio/TV,good,84.06666666666666,Adults
-female,2,own,car,bad,38.125,Young
-male,2,own,radio/TV,good,265.8333333333333,Mature-Seniors
-male,2,free,car,bad,95.9375,Young
-female,2,own,business,good,98.75,Young
-female,1,own,education,good,287.25,Adults
-male,2,own,business,good,52.416666666666664,Young
-male,2,own,radio/TV,good,59.75,Mature-Seniors
-male,2,rent,car,good,200.66666666666666,Adults
-male,2,own,furniture/equipment,good,80.20833333333333,Young
-female,2,rent,radio/TV,bad,24.055555555555557,Young
-female,1,own,car,good,111.0,Adults
-female,1,own,furniture/equipment,good,187.58333333333334,Mature-Seniors
-female,2,own,car,bad,71.66666666666667,Young
-male,2,own,furniture/equipment,good,172.95833333333334,Adults
-male,2,own,furniture/equipment,good,225.55555555555554,Young
-male,1,own,radio/TV,good,123.63333333333334,Young
-male,1,own,radio/TV,good,111.83333333333333,Adults
-male,2,free,radio/TV,bad,179.08333333333334,Young
-female,2,own,car,good,254.13333333333333,Young
-female,1,own,radio/TV,good,104.9090909090909,Mature-Seniors
-male,2,own,furniture/equipment,good,138.08333333333334,Young
-female,2,own,radio/TV,good,66.79166666666667,Mature-Seniors
-male,3,free,car,good,294.55555555555554,Adults
-female,1,free,education,good,229.0,Mature-Seniors
-male,1,own,car,good,123.1,Adults
-male,2,own,radio/TV,bad,53.46666666666667,Adults
-male,2,own,business,good,175.11111111111111,Adults
-female,2,own,radio/TV,good,63.875,Adults
-male,3,own,car,bad,641.2857142857143,Mature-Seniors
-male,2,own,radio/TV,good,41.625,Young
-male,2,own,car,good,147.88888888888889,Adults
-female,2,rent,furniture/equipment,good,116.83333333333333,Adults
-male,3,free,car,good,253.52083333333334,Adults
-male,2,own,radio/TV,bad,63.75,Young
-male,1,own,repairs,bad,399.93333333333334,Adults
-male,2,own,radio/TV,good,299.6666666666667,Adults
-female,2,own,radio/TV,good,133.55555555555554,Young
-male,1,own,furniture/equipment,good,105.16666666666667,Mature-Seniors
-female,2,own,furniture/equipment,bad,768.5,Adults
-male,3,rent,radio/TV,good,79.20833333333333,Young
-male,2,rent,car,good,224.53333333333333,Young
-male,2,own,furniture/equipment,good,131.16666666666666,Mature-Seniors
-male,1,own,radio/TV,good,80.27777777777777,Mature-Seniors
-male,2,own,furniture/equipment,good,101.33333333333333,Mature-Seniors
-male,2,own,car,good,161.58333333333334,Adults
-female,1,own,car,good,228.12765957446808,Adults
-male,2,own,car,good,99.75,Young
-male,3,free,vacation/others,good,157.95833333333334,Adults
-female,2,own,radio/TV,good,91.0,Mature-Seniors
-male,2,own,radio/TV,bad,42.666666666666664,Mature-Seniors
-male,2,own,business,good,89.66666666666667,Young
-male,3,rent,car,bad,261.05555555555554,Young
-female,3,free,car,good,267.4583333333333,Mature-Seniors
-male,2,free,car,good,114.19047619047619,Mature-Seniors
-male,3,own,business,good,158.9375,Mature-Seniors
-female,2,own,furniture/equipment,bad,207.5,Young
-female,2,rent,car,good,389.5833333333333,Young
-male,1,own,car,good,128.7,Mature-Seniors
-male,2,own,furniture/equipment,good,139.72222222222223,Mature-Seniors
-male,2,own,furniture/equipment,good,130.71428571428572,Adults
-female,0,own,car,good,112.0,Mature-Seniors
-female,2,own,radio/TV,bad,105.66666666666667,Mature-Seniors
-male,1,own,car,bad,56.0,Adults
-male,2,own,car,good,103.8,Mature-Seniors
-male,2,free,car,bad,210.97916666666666,Mature-Seniors
-male,2,own,furniture/equipment,good,257.1666666666667,Adults
-female,1,rent,car,good,160.36666666666667,Young
-male,1,own,radio/TV,bad,60.583333333333336,Adults
-female,2,own,furniture/equipment,bad,154.625,Young
-male,1,rent,car,good,30.666666666666668,Young
-male,0,free,vacation/others,good,112.10416666666667,Mature-Seniors
-male,2,own,furniture/equipment,good,229.625,Young
-female,2,own,furniture/equipment,good,156.20833333333334,Young
-male,1,own,car,bad,57.083333333333336,Young
-male,1,own,car,good,373.5,Young
-male,2,own,furniture/equipment,bad,76.27777777777777,Adults
-male,1,own,furniture/equipment,good,59.0,Adults
-female,1,own,furniture/equipment,good,181.29166666666666,Mature-Seniors
-male,2,own,education,good,58.416666666666664,Adults
-female,1,own,furniture/equipment,good,242.86666666666667,Young
-male,3,own,car,bad,141.63333333333333,Young
-male,2,own,radio/TV,bad,80.75,Adults
-male,3,free,car,good,121.25,Adults
-male,2,own,furniture/equipment,good,147.72222222222223,Young
-female,2,own,car,good,57.111111111111114,Adults
-male,1,own,car,good,424.75,Adults
-male,2,rent,furniture/equipment,good,483.4166666666667,Mature-Seniors
-female,2,own,car,good,63.541666666666664,Adults
-male,2,own,radio/TV,good,124.25,Adults
-male,2,own,radio/TV,good,178.0,Young
-male,3,free,car,good,275.625,Mature-Seniors
-female,2,own,education,bad,103.55555555555556,Adults
-female,3,own,car,bad,123.46666666666667,Young
-female,1,rent,car,bad,241.45833333333334,Young
-male,2,rent,furniture/equipment,bad,171.25,Young
-male,3,rent,furniture/equipment,bad,564.0,Mature-Seniors
-female,1,own,radio/TV,good,161.6153846153846,Young
-female,2,rent,domestic appliances,bad,85.0,Young
-male,2,own,furniture/equipment,good,173.70833333333334,Young
-male,1,own,furniture/equipment,good,152.1,Adults
-female,2,free,education,good,239.29166666666666,Young
-female,1,rent,furniture/equipment,good,171.38095238095238,Young
-male,2,rent,radio/TV,good,178.5,Young
-male,3,own,business,good,246.61111111111111,Adults
-male,1,own,car,good,394.9,Adults
-female,1,own,radio/TV,good,97.26666666666667,Mature-Seniors
-male,2,own,radio/TV,good,67.84615384615384,Young
-female,0,rent,radio/TV,good,156.58333333333334,Young
-male,1,own,business,good,290.5,Adults
-male,2,free,education,bad,126.22222222222223,Adults
-female,2,rent,domestic appliances,good,137.33333333333334,Young
-female,2,own,furniture/equipment,bad,106.55555555555556,Young
-male,3,own,car,good,179.38888888888889,Adults
-male,2,rent,radio/TV,bad,516.5833333333334,Young
-male,2,free,education,good,72.7,Mature-Seniors
-male,1,own,car,bad,51.916666666666664,Young
-male,2,own,radio/TV,good,194.25,Mature-Seniors
-male,3,own,radio/TV,bad,123.97222222222223,Young
-male,2,own,radio/TV,good,64.66666666666667,Young
-female,2,rent,furniture/equipment,bad,80.2,Young
-male,2,free,education,good,68.83333333333333,Mature-Seniors
-male,3,own,radio/TV,good,283.25,Adults
-female,2,own,car,good,187.25,Adults
-male,2,rent,furniture/equipment,good,294.3333333333333,Young
-male,0,own,furniture/equipment,bad,137.38888888888889,Young
-male,2,own,business,good,128.5,Adults
-male,2,own,car,good,213.88888888888889,Young
-female,2,rent,furniture/equipment,good,202.77777777777777,Young
-male,2,own,furniture/equipment,bad,95.72222222222223,Mature-Seniors
-female,2,rent,furniture/equipment,good,166.72222222222223,Mature-Seniors
-male,2,own,car,good,85.52777777777777,Adults
-male,2,own,radio/TV,good,337.22222222222223,Adults
-female,2,rent,furniture/equipment,good,214.6,Young
-male,3,free,car,good,229.26666666666668,Mature-Seniors
-female,3,free,vacation/others,bad,246.36666666666667,Mature-Seniors
-female,2,rent,business,bad,160.10416666666666,Adults
-male,2,own,radio/TV,good,128.88888888888889,Adults
-male,2,free,radio/TV,good,120.85714285714286,Adults
-male,3,free,car,bad,397.72222222222223,Mature-Seniors
-female,1,own,car,good,60.333333333333336,Mature-Seniors
-male,2,own,furniture/equipment,good,110.6,Adults
-female,3,free,car,bad,720.8888888888889,Adults
-female,2,rent,car,good,58.31818181818182,Young
-male,2,own,car,good,110.83333333333333,Young
-male,1,own,business,good,142.4,Young
-female,2,own,radio/TV,good,124.33333333333333,Young
-female,2,rent,radio/TV,good,62.55555555555556,Young
-male,3,own,furniture/equipment,good,409.6666666666667,Mature-Seniors
-male,2,own,business,good,155.06666666666666,Young
-female,2,own,business,good,161.0,Young
-male,3,own,car,good,101.11111111111111,Adults
-female,1,rent,furniture/equipment,good,81.91666666666667,
-male,3,free,car,good,90.25,Adults
-female,2,own,radio/TV,good,326.1666666666667,Adults
-male,3,own,furniture/equipment,good,267.3333333333333,Adults
-male,2,rent,education,good,301.53846153846155,Adults
-female,3,free,furniture/equipment,good,214.83333333333334,Mature-Seniors
-male,2,own,furniture/equipment,good,65.22222222222223,Mature-Seniors
-male,2,rent,car,bad,101.91666666666667,Mature-Seniors
-female,1,own,radio/TV,good,63.166666666666664,Mature-Seniors
-male,2,own,radio/TV,good,81.83333333333333,Adults
-male,2,own,business,good,104.83333333333333,Young
-male,2,own,business,bad,360.3333333333333,Young
-male,1,own,car,good,57.285714285714285,Young
-male,2,own,car,good,161.05555555555554,Mature-Seniors
-male,2,own,radio/TV,bad,84.95833333333333,Young
-male,2,own,car,good,91.54166666666667,Mature-Seniors
-male,2,own,radio/TV,good,70.2,Young
-male,3,own,radio/TV,good,134.79166666666666,Young
-male,2,own,car,bad,78.25,Young
-female,2,own,radio/TV,good,81.95833333333333,Young
-male,3,own,car,good,219.78787878787878,Adults
-male,3,own,business,bad,191.0,Mature-Seniors
-male,1,rent,car,good,159.7,Mature-Seniors
-female,2,own,car,bad,57.541666666666664,Adults
-male,2,own,car,good,162.27777777777777,Adults
-male,1,own,car,bad,214.91666666666666,Adults
-female,2,rent,education,good,470.6111111111111,Young
-female,3,own,car,good,132.47619047619048,Adults
-female,2,own,car,bad,57.888888888888886,Adults
-female,2,rent,car,good,212.4,Young
-male,2,own,car,good,169.0,Adults
-male,1,own,car,good,79.83333333333333,Mature-Seniors
-male,3,own,furniture/equipment,good,75.76190476190476,Adults
-female,2,own,furniture/equipment,bad,230.16666666666666,Young
-male,2,rent,car,good,154.38888888888889,Young
-male,2,own,radio/TV,good,97.96428571428571,Young
-male,2,own,radio/TV,good,63.833333333333336,Mature-Seniors
-male,2,own,furniture/equipment,good,145.88888888888889,Young
-female,0,free,repairs,bad,66.11111111111111,Mature-Seniors
-male,1,own,business,good,689.6,Mature-Seniors
-male,3,own,vacation/others,bad,472.0,Young
-male,3,free,furniture/equipment,good,312.0,Adults
-male,2,own,repairs,good,85.75,Adults
-male,2,own,furniture/equipment,good,237.33333333333334,Young
-male,2,own,radio/TV,bad,123.66666666666667,Young
-male,1,rent,repairs,good,110.0,Young
-female,2,own,car,good,53.625,Adults
-male,0,own,repairs,good,80.80952380952381,Mature-Seniors
-female,0,own,business,bad,50.75,Young
-male,3,own,car,good,157.0,Adults
-female,2,own,furniture/equipment,good,135.0,Adults
-male,2,own,vacation/others,good,131.45,Young
-male,1,own,education,bad,59.916666666666664,Mature-Seniors
-female,3,own,furniture/equipment,bad,106.16666666666667,Adults
-female,1,rent,education,good,138.22222222222223,Mature-Seniors
-female,2,own,car,bad,51.166666666666664,Adults
-male,2,own,radio/TV,good,368.0,Adults
-female,3,own,furniture/equipment,good,118.66666666666667,Mature-Seniors
-male,2,own,repairs,bad,100.8,Mature-Seniors
-male,3,own,car,good,307.05555555555554,Adults
-female,2,own,radio/TV,good,86.33333333333333,Young
-male,2,own,furniture/equipment,good,229.91666666666666,Adults
-male,3,own,car,good,111.25,Adults
-male,2,own,car,bad,200.70833333333334,Adults
-female,3,own,car,good,111.625,Young
-male,2,rent,car,good,355.0,Adults
-male,2,free,car,bad,282.1666666666667,Adults
-female,2,own,domestic appliances,good,57.166666666666664,Young
-male,2,own,radio/TV,good,255.22222222222223,Adults
-male,2,own,furniture/equipment,good,100.55555555555556,Adults
-male,2,own,car,good,114.73333333333333,Adults
-female,3,rent,furniture/equipment,good,251.41666666666666,Adults
-male,2,own,education,good,62.833333333333336,Adults
-male,2,own,business,good,108.33333333333333,Adults
-male,2,own,car,good,121.83333333333333,Mature-Seniors
-female,1,rent,radio/TV,bad,69.125,Young
-male,2,own,radio/TV,good,150.79166666666666,Adults
-female,2,own,business,good,83.75757575757575,Young
-male,1,own,car,good,194.95833333333334,Adults
-male,2,rent,radio/TV,bad,128.83333333333334,Young
-female,2,own,education,bad,74.66666666666667,Young
-male,1,own,car,bad,72.66666666666667,Young
-male,3,own,education,good,206.33333333333334,Adults
-male,2,own,radio/TV,bad,69.16666666666667,Adults
-female,2,rent,furniture/equipment,bad,173.0,Young
-male,2,own,car,good,65.87179487179488,Young
-male,2,own,radio/TV,good,214.66666666666666,Young
-male,1,own,business,good,86.41666666666667,Adults
-male,2,own,furniture/equipment,good,98.53333333333333,Mature-Seniors
-female,1,own,radio/TV,good,297.75,Young
-male,2,own,car,good,50.041666666666664,Young
-female,2,rent,furniture/equipment,good,120.73333333333333,Mature-Seniors
-female,2,own,furniture/equipment,good,64.0,Adults
-male,2,own,car,good,96.91666666666667,Mature-Seniors
-male,3,own,car,bad,201.5,Mature-Seniors
-male,2,own,radio/TV,good,256.4166666666667,Mature-Seniors
-female,2,free,car,good,156.54166666666666,Mature-Seniors
-male,1,rent,car,good,141.8,Adults
-male,2,rent,car,good,586.3333333333334,Young
-male,2,own,radio/TV,good,161.16666666666666,Young
-female,3,free,business,bad,308.0740740740741,Mature-Seniors
-female,2,own,radio/TV,good,206.16666666666666,Young
-male,2,own,radio/TV,good,61.333333333333336,Adults
-male,1,rent,car,good,176.83333333333334,Adults
-male,2,own,furniture/equipment,bad,124.83333333333333,Young
-male,3,rent,furniture/equipment,bad,250.94444444444446,Young
-male,2,own,furniture/equipment,good,66.04166666666667,Mature-Seniors
-male,1,own,radio/TV,good,72.27777777777777,Adults
-male,2,own,car,good,220.5,Young
-female,2,own,car,bad,130.125,Young
-male,2,free,car,good,152.58333333333334,Mature-Seniors
-male,2,own,radio/TV,good,125.11111111111111,Mature-Seniors
-male,2,own,radio/TV,bad,50.666666666666664,Adults
-female,2,rent,car,bad,50.291666666666664,Young
-male,1,own,car,bad,130.9,Young
-male,2,own,car,good,157.33333333333334,Adults
-male,3,own,car,bad,456.6666666666667,Adults
-male,2,own,radio/TV,good,58.875,Young
-male,3,own,car,good,220.2051282051282,Mature-Seniors
-male,2,own,car,bad,63.25,Young
-male,3,free,car,good,130.16666666666666,Adults
-male,2,rent,business,good,179.13333333333333,Young
-male,2,rent,radio/TV,good,48.75,Young
-male,2,own,car,good,93.95833333333333,Mature-Seniors
-female,2,own,car,good,101.5,Adults
-male,1,own,car,good,226.83333333333334,Mature-Seniors
-female,2,rent,furniture/equipment,bad,197.97222222222223,Young
-male,2,own,car,good,200.5,Mature-Seniors
-male,2,free,radio/TV,good,116.66666666666667,Adults
-male,2,free,repairs,good,229.45833333333334,Mature-Seniors
-female,2,own,radio/TV,bad,177.22222222222223,Young
-male,2,free,furniture/equipment,bad,148.3125,Mature-Seniors
-female,2,own,car,good,145.33333333333334,Young
-female,1,own,radio/TV,good,61.833333333333336,Young
-male,2,own,car,good,306.38461538461536,Adults
-female,2,own,education,good,102.13333333333334,Adults
-male,1,own,radio/TV,good,375.75,Mature-Seniors
-male,2,rent,radio/TV,bad,63.94444444444444,Adults
-male,1,own,car,good,110.33333333333333,Mature-Seniors
-male,2,own,education,good,63.138888888888886,Adults
-female,2,rent,car,bad,175.4,Young
-male,2,rent,car,good,125.25,Mature-Seniors
-male,2,own,radio/TV,good,54.625,Young
-male,2,own,radio/TV,good,129.375,Young
-male,2,rent,education,bad,110.42857142857143,Adults
-female,3,own,car,good,229.0,Mature-Seniors
-female,2,own,furniture/equipment,good,200.66666666666666,Adults
-male,3,free,car,bad,161.72916666666666,Mature-Seniors
-female,1,own,furniture/equipment,good,169.38888888888889,Mature-Seniors
-male,2,rent,radio/TV,bad,127.83333333333333,Young
-male,2,free,car,good,84.66666666666667,Mature-Seniors
-male,2,own,furniture/equipment,bad,211.66666666666666,Adults
-male,1,own,furniture/equipment,bad,159.11111111111111,Adults
-male,1,own,car,good,104.58333333333333,Mature-Seniors
-male,2,free,car,bad,55.541666666666664,Mature-Seniors
-female,2,own,car,good,84.25,Adults
-male,2,own,radio/TV,good,64.66666666666667,Adults
-female,1,own,radio/TV,bad,52.166666666666664,Young
-male,2,free,car,good,184.54166666666666,Adults
-female,2,own,repairs,good,83.0,Young
-male,1,own,radio/TV,good,291.6666666666667,Mature-Seniors
-male,2,own,radio/TV,bad,145.8125,Adults
-male,2,own,car,good,166.25,Young
-female,3,own,education,good,133.22222222222223,Mature-Seniors
-male,2,own,radio/TV,bad,110.91666666666667,Young
-female,2,own,car,bad,126.55555555555556,Young
-female,2,own,car,bad,238.23809523809524,Young
-male,2,own,furniture/equipment,bad,148.0,Young
-male,1,own,furniture/equipment,bad,107.11111111111111,Adults
-male,2,free,car,good,123.5,Mature-Seniors
-male,1,rent,radio/TV,bad,64.41666666666667,Young
-female,2,own,radio/TV,good,113.83333333333333,Young
-male,2,free,car,bad,344.1388888888889,Adults
-male,3,own,business,good,196.33333333333334,Adults
-female,2,rent,radio/TV,good,64.70833333333333,Young
-male,2,own,car,bad,114.33333333333333,Adults
-male,2,own,radio/TV,good,107.41666666666667,Adults
-male,2,own,radio/TV,good,82.89583333333333,Mature-Seniors
-female,2,own,radio/TV,bad,140.79166666666666,Adults
-female,1,rent,furniture/equipment,bad,134.75,Young
-male,2,own,radio/TV,good,198.46666666666667,Adults
-female,3,rent,car,good,226.375,Young
-female,1,own,business,good,53.733333333333334,Young
-male,1,own,radio/TV,good,120.22222222222223,Young
-female,2,own,furniture/equipment,good,185.86666666666667,Young
-female,2,own,radio/TV,good,244.16666666666666,Young
-female,2,own,education,good,80.29166666666667,Adults
-male,2,own,car,bad,78.33333333333333,Young
-male,1,own,education,good,39.041666666666664,Young
-male,2,own,car,bad,58.666666666666664,Adults
-male,1,own,car,good,260.3333333333333,Mature-Seniors
-female,2,rent,furniture/equipment,good,154.22222222222223,Young
-male,1,rent,repairs,bad,66.22222222222223,Adults
-female,3,free,car,good,177.75,Mature-Seniors
-female,2,rent,furniture/equipment,bad,113.27777777777777,Young
-male,2,rent,car,good,311.0,Adults
-male,1,own,furniture/equipment,good,107.41666666666667,Young
-male,1,own,domestic appliances,bad,67.61111111111111,Mature-Seniors
-male,2,own,furniture/equipment,bad,187.16666666666666,Mature-Seniors
-female,1,own,radio/TV,good,32.083333333333336,Mature-Seniors
-female,2,rent,car,good,81.875,Mature-Seniors
-female,1,own,business,good,74.85714285714286,Adults
-female,1,rent,car,bad,113.25,Young
-male,3,own,vacation/others,bad,56.583333333333336,Mature-Seniors
-female,1,own,car,bad,155.16666666666666,Adults
-female,2,rent,car,bad,60.083333333333336,Young
-male,1,own,business,bad,176.70833333333334,Adults
-male,2,own,car,bad,154.16666666666666,Adults
-male,2,free,business,good,160.95833333333334,Adults
-female,2,own,radio/TV,good,332.7142857142857,Mature-Seniors
-female,2,own,furniture/equipment,bad,102.0,Adults
-female,1,free,education,bad,76.54166666666667,Adults
-female,3,own,furniture/equipment,bad,93.02777777777777,Young
-female,2,own,furniture/equipment,good,127.5,Young
-male,2,own,furniture/equipment,good,117.83333333333333,Young
-male,3,own,business,good,188.58333333333334,Mature-Seniors
-female,2,free,radio/TV,bad,74.19444444444444,Mature-Seniors
-male,2,own,radio/TV,good,113.94444444444444,Adults
-male,2,free,car,good,86.66666666666667,Mature-Seniors
-female,2,own,domestic appliances,bad,61.75,Young
-female,1,free,car,bad,124.0,Mature-Seniors
-female,2,own,radio/TV,good,159.85714285714286,Young
-female,2,rent,car,good,151.33333333333334,Young
-female,2,own,furniture/equipment,bad,100.44444444444444,Young
-male,3,own,business,good,254.25,Mature-Seniors
-male,3,free,radio/TV,good,152.61666666666667,Young
-male,2,rent,car,good,612.6666666666666,Adults
-female,2,rent,furniture/equipment,bad,114.7,Young
-male,1,own,car,good,53.333333333333336,Mature-Seniors
-male,2,own,business,good,173.9047619047619,Young
-male,2,own,car,bad,85.0,Adults
-male,2,own,business,bad,81.54166666666667,Adults
-female,2,rent,furniture/equipment,good,154.83333333333334,Young
-male,2,free,radio/TV,bad,144.44444444444446,Mature-Seniors
-male,2,own,radio/TV,good,131.93333333333334,Adults
-male,2,own,furniture/equipment,good,352.6666666666667,Mature-Seniors
-male,2,own,car,bad,159.66666666666666,Young
-male,2,own,furniture/equipment,good,96.23809523809524,Adults
-male,1,own,education,good,425.77777777777777,Mature-Seniors
-female,2,own,radio/TV,good,152.5,Young
-male,2,own,furniture/equipment,bad,86.27777777777777,Mature-Seniors
-male,2,own,radio/TV,good,96.26666666666667,Young
-female,2,rent,furniture/equipment,bad,220.0,
-female,1,own,car,bad,56.458333333333336,Young
-male,2,own,education,good,116.08333333333333,Mature-Seniors
-female,2,own,radio/TV,good,57.333333333333336,Young
-male,2,own,radio/TV,good,260.8833333333333,Young
-female,2,own,radio/TV,good,124.41666666666667,Adults
-male,2,own,radio/TV,bad,104.04761904761905,Young
-female,0,own,education,bad,41.666666666666664,Young
-male,1,own,repairs,good,87.2,Adults
-male,3,own,education,bad,308.2,Mature-Seniors
-male,2,own,radio/TV,good,77.125,Adults
-male,3,own,radio/TV,good,104.44444444444444,Adults
-male,2,rent,business,bad,221.66666666666666,Young
-male,2,own,furniture/equipment,good,152.76666666666668,Adults
-female,2,own,car,bad,115.5,Young
-male,2,free,car,bad,39.458333333333336,Adults
-male,1,rent,education,bad,57.0,Mature-Seniors
-male,3,free,education,good,155.75,Mature-Seniors
-male,1,own,furniture/equipment,bad,160.16666666666666,Adults
-male,2,own,car,bad,95.95833333333333,Mature-Seniors
-male,3,own,car,bad,224.61111111111111,Mature-Seniors
-male,2,own,car,good,97.75,Adults
-male,2,free,car,good,283.7857142857143,Young
-male,1,own,car,bad,74.0,Mature-Seniors
-male,2,own,radio/TV,good,212.95833333333334,Adults
-female,2,own,business,good,140.7,Young
-male,2,own,furniture/equipment,good,353.3888888888889,Mature-Seniors
-male,2,rent,radio/TV,good,108.08333333333333,Young
-male,2,own,car,bad,75.0,Young
-male,2,own,furniture/equipment,good,106.71428571428571,Mature-Seniors
-male,3,own,furniture/equipment,good,175.0,Adults
-female,1,own,education,good,174.5,Mature-Seniors
-male,3,own,vacation/others,good,263.0833333333333,Young
-male,2,own,furniture/equipment,good,116.53333333333333,Adults
-female,2,own,business,good,75.1875,Young
-male,2,rent,car,bad,403.5833333333333,Mature-Seniors
-male,2,own,radio/TV,good,100.56666666666666,Mature-Seniors
-male,1,own,business,good,172.45833333333334,Young
-male,2,own,business,good,159.5,Adults
-male,3,own,car,good,172.76666666666668,Mature-Seniors
-male,2,own,car,good,346.6666666666667,Young
-male,1,own,business,bad,122.85714285714286,Mature-Seniors
-female,3,rent,radio/TV,good,151.0,Young
-male,2,own,furniture/equipment,good,214.58333333333334,Adults
-male,2,own,radio/TV,bad,77.70833333333333,Young
-male,1,rent,radio/TV,good,99.33333333333333,Mature-Seniors
-female,2,own,radio/TV,good,80.72222222222223,Young
-female,2,own,education,good,256.3333333333333,Mature-Seniors
-male,2,free,radio/TV,good,189.91666666666666,Adults
-male,2,own,radio/TV,good,98.53333333333333,Adults
-male,2,free,radio/TV,good,212.625,Mature-Seniors
-male,1,own,business,good,273.80555555555554,Adults
-male,2,free,car,good,108.78333333333333,Adults
-male,2,own,radio/TV,good,134.7,Young
-male,2,free,car,good,79.5,Adults
-male,2,own,radio/TV,good,305.8888888888889,Adults
-male,2,own,car,good,304.25,Adults
-male,2,own,furniture/equipment,good,65.0,Young
-female,1,own,repairs,good,175.4,Young
-male,2,own,radio/TV,good,120.66666666666667,Young
-male,1,own,car,good,786.0,Mature-Seniors
-male,2,own,radio/TV,good,95.16666666666667,Young
-male,2,rent,car,good,206.0,Mature-Seniors
-male,2,own,radio/TV,good,91.91666666666667,Young
-female,0,own,car,good,77.16666666666667,Adults
-male,2,own,radio/TV,good,100.0,Young
-male,3,rent,education,good,127.0,Mature-Seniors
-female,1,rent,furniture/equipment,bad,93.58333333333333,Young
-male,2,free,car,bad,131.89583333333334,Mature-Seniors
-female,2,free,radio/TV,good,57.375,Mature-Seniors
-male,2,own,business,good,83.43333333333334,Mature-Seniors
-female,2,own,business,good,93.62962962962963,Adults
-female,2,free,car,good,354.93333333333334,Adults
-male,2,own,car,bad,136.66666666666666,Young
-female,2,rent,furniture/equipment,bad,247.41666666666666,Young
-female,2,own,radio/TV,good,134.0,Young
-male,1,own,radio/TV,good,235.33333333333334,Adults
-male,3,own,radio/TV,good,34.94444444444444,Adults
-female,2,free,education,bad,199.66666666666666,Adults
-male,3,own,car,good,117.9047619047619,Mature-Seniors
-male,1,own,radio/TV,good,126.44444444444444,Young
-male,3,own,car,bad,233.78333333333333,Young
-male,2,own,car,good,253.2,Mature-Seniors
-male,2,own,radio/TV,good,102.56666666666666,Mature-Seniors
-male,3,free,radio/TV,good,83.61111111111111,Adults
-male,2,own,radio/TV,good,131.16666666666666,Adults
-male,2,own,car,good,307.4,Adults
-male,3,own,radio/TV,bad,148.55555555555554,Adults
-female,2,rent,education,bad,72.16666666666667,Young
-female,1,own,car,bad,102.33333333333333,Young
-female,1,own,radio/TV,good,87.77777777777777,Mature-Seniors
-female,2,rent,car,bad,95.18518518518519,Young
-female,1,own,car,good,41.666666666666664,Mature-Seniors
-male,1,own,radio/TV,good,87.73333333333333,Mature-Seniors
-female,2,rent,radio/TV,bad,104.55555555555556,Young
-female,2,rent,business,bad,133.66666666666666,Mature-Seniors
-male,2,own,business,good,53.125,Adults
-male,2,own,radio/TV,good,266.7916666666667,Adults
-male,1,rent,radio/TV,bad,82.79166666666667,Young
-female,1,own,radio/TV,good,95.0,Mature-Seniors
-female,2,rent,car,good,108.45833333333333,Young
-female,2,own,car,good,845.0,Adults
-female,0,own,domestic appliances,good,110.83333333333333,Young
-female,3,rent,car,bad,481.6666666666667,Young
-male,1,own,car,good,243.33333333333334,Adults
-male,3,own,car,good,1126.8333333333333,Mature-Seniors
-female,1,rent,business,bad,142.66666666666666,Young
-male,2,own,car,good,96.875,Adults
-male,1,own,radio/TV,good,104.8,Young
-male,2,own,radio/TV,good,150.47619047619048,Mature-Seniors
-male,2,own,furniture/equipment,good,103.45833333333333,Young
-male,3,own,furniture/equipment,good,363.56410256410254,Adults
-male,1,own,business,good,138.23076923076923,Young
-female,2,rent,car,good,167.4,Young
-female,1,own,car,bad,106.16666666666667,Adults
-male,2,own,car,good,249.9047619047619,Young
-male,2,own,car,good,201.93333333333334,Adults
-female,2,own,furniture/equipment,good,71.33333333333333,Mature-Seniors
-female,1,own,car,bad,54.22222222222222,Young
-female,1,rent,business,good,70.08333333333333,Young
-female,2,own,radio/TV,good,192.36666666666667,Young
-male,2,free,repairs,bad,129.58333333333334,Mature-Seniors
-female,2,rent,car,bad,53.541666666666664,Adults
-male,0,own,car,good,216.5,Mature-Seniors
-male,2,free,radio/TV,bad,84.73333333333333,Adults
-male,2,own,car,good,58.041666666666664,Adults
-male,2,own,car,bad,57.583333333333336,Adults
-female,2,own,car,good,336.3333333333333,Mature-Seniors
-female,2,rent,furniture/equipment,bad,118.0,Young
-male,1,own,radio/TV,good,184.5,Young
-male,3,free,car,bad,603.8095238095239,Adults
-male,2,own,car,good,102.625,Young
-male,1,own,radio/TV,good,96.25,Mature-Seniors
-male,1,own,furniture/equipment,bad,103.6,Adults
-female,2,rent,car,good,290.1,Adults
-male,2,rent,furniture/equipment,good,301.4166666666667,Young
-male,1,own,radio/TV,good,137.91666666666666,Mature-Seniors
-female,2,rent,car,good,117.16666666666667,Young
-female,3,own,education,bad,224.02777777777777,Young
-male,3,own,car,good,155.95238095238096,Adults
-male,2,own,radio/TV,good,92.625,Mature-Seniors
-male,0,free,car,good,123.33333333333333,Mature-Seniors
-female,2,rent,car,bad,57.125,Young
-male,2,own,car,good,98.19444444444444,Adults
-female,2,own,radio/TV,good,194.94444444444446,Young
-male,3,own,car,good,158.63888888888889,Adults
-female,2,own,repairs,good,215.11111111111111,Mature-Seniors
-male,2,own,radio/TV,bad,126.48717948717949,Young
-male,2,own,car,good,80.83333333333333,Mature-Seniors
-male,1,own,education,good,117.5,Adults
-female,1,own,car,bad,69.66666666666667,Young
-male,3,own,car,good,323.4,Mature-Seniors
-male,1,own,business,good,107.83333333333333,Adults
-male,2,own,radio/TV,good,121.5909090909091,Mature-Seniors
-male,2,own,car,good,57.3125,Adults
-male,2,free,education,bad,129.66666666666666,Mature-Seniors
-male,2,own,education,bad,149.95,Young
-female,2,own,business,bad,56.57142857142857,Adults
-male,3,own,car,good,263.0416666666667,Mature-Seniors
-male,2,own,furniture/equipment,good,203.5,Young
-male,2,free,furniture/equipment,good,120.5,Mature-Seniors
-male,2,rent,furniture/equipment,good,127.58333333333333,Adults
-female,2,rent,furniture/equipment,good,255.66666666666666,Young
-male,2,free,car,bad,417.27777777777777,Mature-Seniors
-female,1,rent,furniture/equipment,good,104.83333333333333,Young
-male,2,own,car,good,29.875,Mature-Seniors
-male,0,own,car,good,172.11111111111111,Adults
-male,2,free,education,good,66.54166666666667,Mature-Seniors
-female,1,rent,radio/TV,good,99.72222222222223,Mature-Seniors
-female,2,own,furniture/equipment,good,213.6,Young
-male,2,own,radio/TV,good,81.33333333333333,Adults
-female,0,rent,car,good,622.6666666666666,Young
-male,2,own,car,bad,257.52777777777777,Young
-male,1,own,radio/TV,good,98.33333333333333,Young
-male,2,own,radio/TV,good,77.5,Mature-Seniors
-male,3,free,car,good,221.02380952380952,Mature-Seniors
-female,0,rent,car,bad,118.53333333333333,Young
-male,2,own,business,good,113.375,Young
-male,1,own,radio/TV,good,80.66666666666667,Young
-male,2,own,car,bad,267.47222222222223,Young
-male,2,own,domestic appliances,bad,63.5625,Mature-Seniors
-male,2,free,car,bad,81.89583333333333,Mature-Seniors
-female,2,rent,car,good,206.44444444444446,Mature-Seniors
-male,2,own,domestic appliances,good,223.0,Mature-Seniors
-female,2,rent,radio/TV,good,259.0,Young
-male,3,own,vacation/others,good,440.47222222222223,Mature-Seniors
-male,2,own,radio/TV,bad,74.72222222222223,Young
-male,2,own,car,good,91.75,Young
-male,2,own,radio/TV,good,251.33333333333334,Young
-male,2,own,furniture/equipment,bad,75.33333333333333,Mature-Seniors
-male,1,own,car,good,91.375,Mature-Seniors
-male,3,own,furniture/equipment,good,210.0,Adults
-male,2,own,car,good,76.28571428571429,Adults
-female,2,rent,car,bad,220.33333333333334,Adults
-male,2,own,business,bad,231.38888888888889,Adults
-male,2,free,car,bad,231.52777777777777,Mature-Seniors
-male,2,free,business,good,139.1875,Adults
-male,2,own,business,good,98.95833333333333,Mature-Seniors
-female,2,rent,car,bad,67.55555555555556,Young
-male,2,rent,business,bad,262.5777777777778,Young
-female,2,own,radio/TV,good,211.83333333333334,Mature-Seniors
-female,1,own,radio/TV,bad,155.13333333333333,Young
-male,2,own,car,bad,90.16666666666667,Mature-Seniors
-female,2,own,radio/TV,good,73.83333333333333,Young
-female,1,rent,furniture/equipment,good,150.25,Young
-male,2,own,car,good,123.20833333333333,Mature-Seniors
-male,2,own,radio/TV,good,108.79166666666667,Mature-Seniors
-male,2,own,furniture/equipment,bad,143.86111111111111,Young
-male,1,own,car,good,142.52380952380952,Young
-female,2,own,repairs,bad,107.94444444444444,Young
-male,2,own,business,good,64.95833333333333,Mature-Seniors
-male,2,own,furniture/equipment,good,190.11111111111111,Mature-Seniors
-male,2,own,furniture/equipment,good,189.33333333333334,Adults
-male,2,rent,car,bad,375.6111111111111,Mature-Seniors
-male,2,own,car,good,52.041666666666664,Young
-male,2,own,radio/TV,good,151.55555555555554,Mature-Seniors
-male,1,own,radio/TV,bad,59.083333333333336,Mature-Seniors
-male,2,rent,car,bad,111.75,Adults
-male,2,own,car,good,168.41666666666666,Mature-Seniors
-male,2,free,radio/TV,good,98.06666666666666,Adults
-male,1,free,car,bad,80.11111111111111,Adults
-male,2,own,car,good,302.0833333333333,Mature-Seniors
-male,2,own,car,good,61.416666666666664,Adults
-female,2,own,education,good,89.4,Mature-Seniors
-male,2,free,furniture/equipment,good,222.86666666666667,Young
-female,2,own,car,bad,263.93333333333334,Young
-male,2,rent,car,good,397.44444444444446,Young
-male,2,own,car,good,241.83333333333334,Young
-male,2,own,business,bad,120.5,Young
-female,2,own,radio/TV,bad,101.625,Adults
-male,1,own,furniture/equipment,good,167.62962962962962,Adults
-male,1,rent,furniture/equipment,bad,221.0,Young
-female,2,rent,furniture/equipment,good,148.06666666666666,Young
-female,2,own,radio/TV,good,132.72222222222223,Young
-male,2,own,furniture/equipment,good,277.5833333333333,Mature-Seniors
-male,2,own,business,good,205.80555555555554,Adults
-female,2,rent,furniture/equipment,good,54.333333333333336,Young
-female,2,own,furniture/equipment,good,213.27777777777777,Mature-Seniors
-male,2,own,car,good,223.83333333333334,Mature-Seniors
-male,2,own,business,good,57.583333333333336,Young
-female,2,own,domestic appliances,good,58.266666666666666,Young
-male,1,own,furniture/equipment,good,299.1666666666667,Young
-female,2,own,car,good,120.18181818181819,Mature-Seniors
-male,3,free,radio/TV,good,107.77777777777777,Adults
-male,2,own,radio/TV,good,99.86111111111111,Young
-male,3,free,car,bad,158.0,Young
-male,2,own,radio/TV,good,224.73333333333332,Adults
-male,3,own,car,good,325.5833333333333,Adults
-male,2,free,car,good,386.5416666666667,Mature-Seniors
-male,2,own,car,good,72.7,Adults
-female,0,own,radio/TV,good,61.0,Mature-Seniors
-male,2,own,furniture/equipment,bad,169.04166666666666,Mature-Seniors
-female,2,own,education,bad,66.25,Mature-Seniors
-male,2,own,business,good,117.70833333333333,Adults
-male,2,own,business,bad,326.5,Young
-male,3,own,car,good,183.72222222222223,Adults
-male,2,rent,car,good,279.42857142857144,Mature-Seniors
-male,3,own,business,good,90.44444444444444,Mature-Seniors
-male,2,own,radio/TV,good,121.93333333333334,Mature-Seniors
-male,1,own,car,good,180.91666666666666,Adults
-male,2,own,car,good,161.11111111111111,Adults
-male,2,own,radio/TV,good,64.94444444444444,Young
-male,3,own,car,good,248.52777777777777,Adults
-female,3,rent,radio/TV,good,124.0952380952381,Young
-female,2,own,furniture/equipment,good,132.66666666666666,Adults
-female,1,rent,furniture/equipment,good,145.73333333333332,Adults
-male,2,own,furniture/equipment,bad,230.72222222222223,Mature-Seniors
-male,2,rent,car,bad,164.0625,Mature-Seniors
-male,2,own,car,good,174.25,Mature-Seniors
-male,2,free,car,good,291.02777777777777,Mature-Seniors
-male,2,rent,radio/TV,good,92.4,Mature-Seniors
-male,3,own,radio/TV,good,53.25,Adults
-male,3,rent,radio/TV,good,92.25,Young
-male,1,own,car,good,179.1904761904762,Young
-male,2,own,education,good,103.08333333333333,Young
-female,1,own,car,good,239.6,Mature-Seniors
-female,1,own,car,good,355.0,Adults
-female,2,own,radio/TV,good,123.72222222222223,Adults
-female,1,own,furniture/equipment,bad,197.33333333333334,Young
-female,2,own,radio/TV,good,99.7,Young
-male,2,own,business,good,194.72727272727272,Young
-male,2,rent,business,bad,131.70833333333334,Adults
-female,3,own,vacation/others,bad,383.8333333333333,Adults
-male,2,own,car,good,284.8,Adults
-male,3,own,car,bad,2482.6666666666665,Mature-Seniors
-male,2,own,furniture/equipment,bad,98.29166666666667,Adults
-male,3,rent,furniture/equipment,bad,139.375,Adults
-female,2,own,furniture/equipment,good,100.94444444444444,Young
-male,3,own,radio/TV,good,265.6041666666667,Adults
-female,2,rent,radio/TV,bad,151.77777777777777,Young
-male,2,rent,car,good,166.83333333333334,Adults
-male,2,own,furniture/equipment,bad,286.3333333333333,Mature-Seniors
-male,2,own,car,bad,58.083333333333336,Mature-Seniors
-female,2,rent,furniture/equipment,good,58.27777777777778,Young
-male,2,free,car,bad,214.52083333333334,Adults
-male,2,own,radio/TV,good,62.233333333333334,Mature-Seniors
-male,1,own,car,good,112.0,Mature-Seniors
-male,1,own,furniture/equipment,good,72.79166666666667,Young
-female,2,own,radio/TV,bad,185.55555555555554,Young
-male,2,own,car,good,136.0,Adults
-male,2,own,radio/TV,good,43.5,Mature-Seniors
-female,2,own,radio/TV,good,124.83333333333333,Young
-male,3,own,radio/TV,bad,63.96666666666667,Adults
-female,1,own,radio/TV,bad,82.77777777777777,Young
-male,3,rent,radio/TV,good,343.8333333333333,Adults
-male,2,free,education,bad,104.8,Mature-Seniors
-male,3,own,car,good,285.0833333333333,Mature-Seniors
-male,3,own,car,good,293.9166666666667,Mature-Seniors
-male,1,own,car,good,154.6,Adults
-male,2,own,furniture/equipment,good,38.708333333333336,Adults
-male,1,own,car,good,363.75,Mature-Seniors
-female,2,rent,furniture/equipment,good,123.0,Mature-Seniors
-female,2,own,car,good,174.125,Adults
-male,2,free,furniture/equipment,bad,139.54166666666666,Adults
-male,3,own,car,good,238.25,Adults
-male,1,own,furniture/equipment,bad,85.16666666666667,Mature-Seniors
-male,2,own,radio/TV,bad,150.875,Adults
-male,0,own,business,good,199.44444444444446,Mature-Seniors
-male,2,own,business,bad,59.583333333333336,Young
-female,2,rent,car,bad,171.375,Young
-female,3,own,furniture/equipment,bad,304.8333333333333,Young
-female,2,own,car,good,157.75,Young
-female,3,rent,radio/TV,good,51.291666666666664,Mature-Seniors
-male,1,own,radio/TV,good,121.86666666666666,Mature-Seniors
-male,1,own,radio/TV,good,128.22222222222223,Adults
-male,1,own,car,bad,143.07142857142858,Mature-Seniors
-male,2,free,furniture/equipment,good,127.875,Adults
-male,2,rent,radio/TV,good,290.0,Adults
-male,2,own,car,good,112.04761904761905,Mature-Seniors
-male,2,own,car,good,237.06666666666666,Young
-male,2,own,radio/TV,bad,99.875,Adults
-male,1,own,repairs,good,75.66666666666667,Young
-female,2,own,radio/TV,good,57.166666666666664,Young
-male,1,own,radio/TV,bad,93.33333333333333,Young
-female,3,rent,radio/TV,good,237.86666666666667,Mature-Seniors
-male,2,rent,radio/TV,good,170.61904761904762,Young
-male,1,own,car,good,358.09090909090907,Mature-Seniors
-male,2,own,repairs,good,100.93333333333334,Young
-male,1,own,car,good,308.0416666666667,Mature-Seniors
-female,0,rent,car,bad,49.708333333333336,Young
-male,2,rent,business,bad,121.61666666666666,Adults
-female,2,own,radio/TV,good,94.36666666666666,Adults
-female,1,own,radio/TV,good,52.416666666666664,Mature-Seniors
-female,2,own,radio/TV,good,125.5,Mature-Seniors
-male,2,own,business,good,134.83333333333334,Mature-Seniors
-male,1,own,car,bad,105.75,Mature-Seniors
-male,2,rent,car,bad,84.26666666666667,Young
-male,2,own,furniture/equipment,bad,279.53333333333336,Mature-Seniors
-male,3,rent,business,bad,100.91666666666667,Adults
-female,3,own,car,good,139.1904761904762,Young
-male,2,own,car,bad,228.58333333333334,Young
-male,1,own,furniture/equipment,good,84.5,Adults
-female,2,rent,furniture/equipment,good,95.53333333333333,Young
-male,2,own,business,good,149.73809523809524,Adults
-female,2,own,radio/TV,good,108.38461538461539,Mature-Seniors
-male,3,free,car,good,274.125,Young
-male,1,own,radio/TV,good,72.625,Mature-Seniors
-male,1,own,education,good,297.0833333333333,Adults
-male,1,own,radio/TV,good,104.6,Adults
-male,1,rent,radio/TV,good,107.55555555555556,Young
-male,3,own,furniture/equipment,good,109.97222222222223,Adults
-male,2,own,car,good,199.16666666666666,Mature-Seniors
-female,1,own,furniture/equipment,good,144.66666666666666,Adults
-male,3,own,car,good,128.56666666666666,Mature-Seniors
-male,2,own,radio/TV,good,67.0,Adults
-male,2,free,radio/TV,bad,41.0,Young
-male,2,own,car,good,101.68888888888888,Young
+Checking account,Housing,Job,Purpose,Risk,Saving accounts,Sex,Credit_Duration_Ratio,Age_Group
+little,own,2,radio/TV,good,No savings,male,194.83333333333334,Mature-Seniors
+moderate,own,2,radio/TV,bad,little,female,123.97916666666667,Young
+No checking,own,1,education,good,little,male,174.66666666666666,Mature-Seniors
+little,free,2,furniture/equipment,good,little,male,187.66666666666666,Mature-Seniors
+little,free,2,car,bad,little,male,202.91666666666666,Mature-Seniors
+No checking,free,1,education,good,No savings,male,251.52777777777777,Adults
+No checking,own,2,furniture/equipment,good,quite rich,male,118.125,Mature-Seniors
+moderate,rent,3,car,good,little,male,193.0,Adults
+No checking,own,1,radio/TV,good,rich,male,254.91666666666666,Mature-Seniors
+moderate,own,3,car,bad,little,male,174.46666666666667,Young
+moderate,rent,2,car,bad,little,female,107.91666666666667,Young
+little,rent,2,business,bad,little,female,89.75,Young
+moderate,own,2,radio/TV,good,little,female,130.58333333333334,Young
+little,own,1,car,bad,little,male,49.958333333333336,Mature-Seniors
+little,rent,2,car,good,little,female,93.53333333333333,Young
+little,own,1,radio/TV,bad,moderate,female,53.416666666666664,Adults
+No checking,own,2,radio/TV,good,No savings,male,101.0,Mature-Seniors
+little,own,2,business,good,No savings,male,269.06666666666666,Young
+moderate,free,3,car,bad,little,female,524.125,Mature-Seniors
+No checking,own,2,radio/TV,good,quite rich,male,142.91666666666666,Adults
+No checking,own,2,car,good,little,male,237.11111111111111,Mature-Seniors
+little,rent,2,radio/TV,good,quite rich,male,441.1666666666667,Mature-Seniors
+little,rent,1,car,good,little,male,224.1,Mature-Seniors
+moderate,own,2,car,good,moderate,male,150.33333333333334,Mature-Seniors
+No checking,own,2,furniture/equipment,good,No savings,male,206.9,Young
+little,own,1,furniture/equipment,good,little,male,229.0,Adults
+No checking,own,1,radio/TV,good,little,male,71.0,Adults
+rich,rent,2,radio/TV,good,rich,female,34.083333333333336,Mature-Seniors
+moderate,own,2,radio/TV,good,little,male,345.0,Adults
+little,own,2,business,bad,little,male,113.93333333333334,Mature-Seniors
+moderate,own,2,business,good,rich,male,106.27777777777777,Adults
+little,own,2,furniture/equipment,good,little,male,167.5,Young
+moderate,own,2,car,good,moderate,male,325.8888888888889,Adults
+No checking,rent,1,business,good,No savings,male,105.33333333333333,Mature-Seniors
+rich,own,3,furniture/equipment,good,little,female,122.83333333333333,Adults
+moderate,own,1,radio/TV,bad,little,male,105.46666666666667,Young
+No checking,free,2,education,good,little,male,127.29166666666667,Adults
+rich,own,2,radio/TV,bad,little,male,116.66666666666667,Adults
+rich,own,2,domestic appliances,good,little,male,122.5,Adults
+moderate,own,2,radio/TV,good,little,male,50.888888888888886,Young
+No checking,own,3,radio/TV,good,quite rich,male,77.76666666666667,Adults
+moderate,own,2,radio/TV,good,quite rich,male,96.5,Young
+moderate,own,1,repairs,good,little,male,344.6666666666667,Mature-Seniors
+little,rent,2,car,good,moderate,male,206.23333333333332,Young
+little,free,1,car,bad,little,female,127.97916666666667,Mature-Seniors
+No checking,own,3,car,good,little,female,126.63636363636364,Adults
+No checking,own,2,radio/TV,good,quite rich,male,63.861111111111114,Adults
+little,rent,0,car,good,quite rich,female,225.33333333333334,Young
+No checking,own,1,car,good,little,male,657.0909090909091,Adults
+No checking,own,2,radio/TV,good,moderate,female,172.75,Young
+moderate,own,1,furniture/equipment,good,No savings,male,97.20833333333333,Young
+moderate,own,3,car,good,little,male,220.92592592592592,Adults
+No checking,own,2,radio/TV,good,little,male,105.16666666666667,Young
+No checking,own,2,car,good,No savings,male,187.66666666666666,Adults
+moderate,free,2,car,bad,little,male,61.80555555555556,Mature-Seniors
+No checking,own,1,car,good,No savings,male,130.5,Young
+moderate,own,3,radio/TV,bad,No savings,male,539.0,Mature-Seniors
+No checking,own,2,radio/TV,good,little,female,265.72222222222223,Adults
+rich,own,3,car,good,little,female,108.94444444444444,Young
+little,rent,1,furniture/equipment,bad,little,female,173.02777777777777,Young
+moderate,own,2,business,good,little,male,154.55555555555554,Young
+moderate,own,2,radio/TV,good,No savings,male,102.46666666666667,Mature-Seniors
+moderate,free,3,business,bad,little,male,54.25,Mature-Seniors
+moderate,own,2,business,bad,little,male,300.4375,Young
+No checking,own,2,radio/TV,good,little,female,132.54166666666666,Young
+No checking,own,2,repairs,good,No savings,male,192.22222222222223,Mature-Seniors
+No checking,own,2,radio/TV,good,little,female,180.91666666666666,Young
+moderate,own,2,car,good,rich,male,83.91666666666667,Young
+No checking,free,2,education,bad,little,male,50.52777777777778,Adults
+No checking,own,2,radio/TV,good,No savings,female,66.5,Young
+No checking,own,2,car,good,little,female,225.91666666666666,Adults
+No checking,rent,1,radio/TV,good,No savings,male,104.28571428571429,Mature-Seniors
+little,free,3,vacation/others,good,little,male,145.5,Mature-Seniors
+moderate,own,1,business,good,little,female,141.76190476190476,Mature-Seniors
+little,own,3,education,bad,No savings,male,54.916666666666664,Mature-Seniors
+little,free,3,car,good,little,male,127.16666666666667,Mature-Seniors
+little,own,2,radio/TV,bad,little,male,94.4047619047619,Adults
+moderate,own,2,radio/TV,good,little,male,433.72727272727275,Mature-Seniors
+No checking,own,1,car,good,No savings,male,174.74074074074073,Adults
+moderate,own,2,furniture/equipment,good,little,male,127.73333333333333,Young
+No checking,own,2,radio/TV,bad,No savings,female,247.625,Mature-Seniors
+No checking,own,2,radio/TV,good,quite rich,male,80.86666666666666,Mature-Seniors
+No checking,rent,1,business,good,moderate,female,87.11111111111111,Young
+little,own,1,vacation/others,good,little,female,73.125,Mature-Seniors
+little,own,1,radio/TV,good,little,male,231.5,Mature-Seniors
+No checking,own,3,business,good,little,female,117.66666666666667,Young
+moderate,own,2,furniture/equipment,good,little,female,71.94444444444444,Young
+moderate,free,2,education,bad,moderate,male,350.3333333333333,Mature-Seniors
+little,own,3,car,good,moderate,male,124.94444444444444,Adults
+little,own,2,repairs,bad,little,male,92.33333333333333,Young
+No checking,own,2,radio/TV,good,little,male,51.5,Mature-Seniors
+little,own,2,car,good,little,male,117.41666666666667,Mature-Seniors
+No checking,own,1,radio/TV,bad,No savings,female,66.41666666666667,Adults
+rich,rent,2,furniture/equipment,good,No savings,male,150.70833333333334,Young
+moderate,own,2,car,good,rich,male,109.83333333333333,Mature-Seniors
+moderate,rent,2,business,bad,little,male,295.27777777777777,Mature-Seniors
+No checking,own,2,education,good,No savings,female,167.66666666666666,Mature-Seniors
+moderate,own,2,business,good,moderate,male,145.66666666666666,Adults
+moderate,own,2,radio/TV,good,little,male,64.91666666666667,Adults
+moderate,rent,3,car,good,No savings,male,352.85,Adults
+No checking,rent,1,car,good,moderate,male,61.208333333333336,Mature-Seniors
+moderate,rent,2,radio/TV,good,little,male,64.52777777777777,Young
+No checking,own,2,radio/TV,good,little,female,155.33333333333334,Young
+moderate,rent,2,furniture/equipment,good,little,male,213.22222222222223,Adults
+No checking,rent,2,car,good,No savings,male,203.75,Young
+moderate,own,3,vacation/others,bad,little,male,497.4166666666667,Adults
+No checking,own,3,car,bad,little,male,358.77777777777777,Adults
+moderate,own,2,car,good,little,male,506.5,Adults
+little,own,2,furniture/equipment,good,No savings,female,321.7083333333333,Adults
+moderate,own,2,business,good,quite rich,male,100.71428571428571,Adults
+moderate,own,2,business,good,moderate,male,241.5,Adults
+rich,rent,2,education,good,little,female,26.133333333333333,Young
+moderate,rent,1,car,good,little,male,347.77777777777777,Young
+No checking,own,2,car,bad,little,female,218.19444444444446,Young
+little,own,2,radio/TV,good,quite rich,male,140.0,Adults
+No checking,own,2,radio/TV,good,No savings,male,74.54166666666667,Mature-Seniors
+little,own,3,radio/TV,bad,No savings,female,170.8095238095238,Adults
+little,rent,2,furniture/equipment,good,No savings,female,213.2,Young
+little,own,2,furniture/equipment,bad,quite rich,female,129.72727272727272,Young
+moderate,own,3,car,good,quite rich,male,197.16666666666666,Adults
+little,own,2,radio/TV,bad,little,female,87.38095238095238,Young
+No checking,rent,3,car,good,little,female,161.16666666666666,Mature-Seniors
+No checking,rent,1,furniture/equipment,good,little,male,147.33333333333334,Young
+rich,free,2,car,good,little,male,78.1,Mature-Seniors
+moderate,rent,2,furniture/equipment,bad,No savings,female,106.88888888888889,Young
+little,own,2,car,good,little,male,176.75,Adults
+little,own,1,radio/TV,good,little,male,58.416666666666664,Mature-Seniors
+moderate,own,2,repairs,bad,little,male,53.25,Adults
+moderate,own,3,car,good,little,male,155.0,Adults
+little,own,2,car,bad,little,female,291.5833333333333,Young
+moderate,own,2,car,good,No savings,female,176.8125,Young
+little,own,2,education,bad,little,male,191.30555555555554,Young
+No checking,own,1,furniture/equipment,good,little,male,180.53333333333333,Young
+No checking,free,2,furniture/equipment,good,little,male,110.22222222222223,Mature-Seniors
+No checking,own,2,radio/TV,good,moderate,female,169.06666666666666,Young
+No checking,own,2,radio/TV,good,No savings,female,103.33333333333333,Adults
+No checking,own,2,car,good,rich,male,319.0,Young
+moderate,own,1,radio/TV,bad,quite rich,male,63.833333333333336,Mature-Seniors
+moderate,own,2,radio/TV,good,No savings,male,181.86666666666667,Adults
+rich,rent,1,radio/TV,good,little,female,156.75,Mature-Seniors
+rich,own,0,car,good,rich,male,118.16666666666667,Young
+moderate,own,3,radio/TV,good,little,female,133.19444444444446,Adults
+little,own,3,radio/TV,good,little,male,126.51851851851852,Young
+little,own,2,furniture/equipment,bad,little,male,136.77777777777777,Young
+No checking,own,2,furniture/equipment,good,little,female,108.95238095238095,Young
+moderate,own,2,business,good,moderate,male,74.29166666666667,Adults
+little,own,2,car,good,little,female,143.33333333333334,Adults
+No checking,own,2,car,good,moderate,female,56.833333333333336,Mature-Seniors
+little,own,2,furniture/equipment,good,little,male,149.19444444444446,Young
+No checking,own,2,radio/TV,good,rich,male,87.88888888888889,Mature-Seniors
+No checking,free,2,radio/TV,good,moderate,male,224.33333333333334,Mature-Seniors
+No checking,own,2,radio/TV,good,little,male,192.4,Adults
+rich,own,2,radio/TV,good,little,male,162.44444444444446,Young
+moderate,rent,2,car,good,rich,female,323.25,Young
+moderate,rent,3,business,good,moderate,male,290.2916666666667,Adults
+little,rent,2,furniture/equipment,bad,little,female,106.83333333333333,Young
+little,own,2,repairs,good,moderate,male,143.11111111111111,Mature-Seniors
+little,own,1,education,good,little,male,28.25,Mature-Seniors
+moderate,own,2,car,good,moderate,male,146.33333333333334,Adults
+No checking,own,1,radio/TV,good,No savings,male,316.3333333333333,Adults
+No checking,own,2,radio/TV,good,moderate,male,119.66666666666667,Adults
+No checking,own,2,car,good,little,female,58.611111111111114,Adults
+No checking,own,2,domestic appliances,good,quite rich,male,84.13333333333334,Adults
+moderate,free,3,car,good,little,male,730.8,Mature-Seniors
+No checking,own,2,car,good,quite rich,male,25.25,Adults
+No checking,own,2,furniture/equipment,good,quite rich,male,496.3333333333333,Adults
+little,own,2,furniture/equipment,bad,little,female,62.833333333333336,Adults
+moderate,own,2,furniture/equipment,good,rich,female,143.36363636363637,Young
+No checking,rent,2,furniture/equipment,good,little,female,165.5,Young
+moderate,own,2,business,bad,little,male,80.625,Adults
+little,rent,2,car,bad,little,male,63.333333333333336,Adults
+No checking,own,2,furniture/equipment,good,little,female,63.583333333333336,Young
+moderate,own,3,furniture/equipment,bad,little,female,86.0,Adults
+moderate,own,2,radio/TV,good,little,male,176.75,Adults
+little,own,2,education,bad,little,male,162.57142857142858,Young
+No checking,own,3,car,bad,No savings,female,249.5,Mature-Seniors
+little,own,2,furniture/equipment,good,little,male,214.75,Mature-Seniors
+little,own,2,radio/TV,good,quite rich,male,56.333333333333336,Mature-Seniors
+No checking,rent,3,radio/TV,good,little,male,163.58333333333334,Adults
+little,own,2,car,good,little,male,27.19047619047619,Mature-Seniors
+No checking,own,2,business,bad,little,male,265.8888888888889,Young
+moderate,own,3,business,bad,little,male,123.75,Adults
+little,own,1,car,bad,No savings,male,78.42857142857143,Mature-Seniors
+No checking,own,2,furniture/equipment,good,rich,male,157.375,Mature-Seniors
+moderate,own,2,car,bad,little,male,49.111111111111114,Adults
+No checking,own,2,radio/TV,good,little,male,90.66666666666667,Adults
+moderate,free,3,car,bad,little,female,569.8888888888889,Mature-Seniors
+moderate,free,0,car,good,little,male,73.4375,Mature-Seniors
+little,own,2,radio/TV,bad,moderate,male,56.166666666666664,Young
+moderate,own,2,furniture/equipment,good,little,female,180.22222222222223,Adults
+No checking,own,3,business,bad,rich,male,191.29166666666666,Mature-Seniors
+moderate,free,1,business,bad,moderate,male,80.08333333333333,Adults
+moderate,own,2,business,bad,little,male,145.0,Adults
+No checking,rent,2,radio/TV,good,little,male,351.3333333333333,Young
+moderate,rent,2,radio/TV,bad,moderate,male,67.35555555555555,Young
+moderate,own,3,education,bad,little,female,166.77777777777777,Adults
+No checking,own,2,radio/TV,good,little,female,230.33333333333334,Young
+moderate,rent,2,furniture/equipment,bad,moderate,female,79.25,Young
+moderate,free,2,car,good,No savings,male,115.0,Adults
+moderate,own,3,furniture/equipment,bad,little,male,238.72222222222223,Mature-Seniors
+No checking,own,2,education,good,quite rich,male,104.0,Mature-Seniors
+little,own,1,car,good,little,male,97.33333333333333,Young
+No checking,own,2,business,good,little,male,189.5185185185185,Young
+little,rent,2,education,bad,little,male,75.16666666666667,Young
+No checking,own,1,car,good,little,male,124.58333333333333,Adults
+little,free,3,car,good,little,male,354.1,Adults
+No checking,own,2,furniture/equipment,good,little,male,161.25,Mature-Seniors
+moderate,own,2,domestic appliances,good,little,male,118.66666666666667,Young
+little,own,1,business,good,little,male,273.6666666666667,Young
+No checking,own,2,car,good,rich,male,117.75,Mature-Seniors
+No checking,own,2,radio/TV,good,No savings,male,341.55555555555554,Adults
+No checking,own,1,radio/TV,good,No savings,female,106.52777777777777,Mature-Seniors
+little,own,2,business,bad,little,male,196.03703703703704,Mature-Seniors
+rich,own,3,business,bad,little,male,63.6,Mature-Seniors
+No checking,own,2,radio/TV,good,No savings,male,92.83333333333333,Mature-Seniors
+moderate,own,1,education,good,No savings,female,155.33333333333334,Adults
+little,own,2,business,good,little,male,172.44444444444446,Adults
+rich,own,2,radio/TV,good,little,male,108.69444444444444,Young
+little,rent,1,furniture/equipment,good,little,male,125.875,Young
+No checking,own,2,car,good,little,female,136.4,Mature-Seniors
+moderate,own,1,radio/TV,good,little,male,52.083333333333336,Young
+little,rent,2,education,good,No savings,female,100.0,Young
+No checking,own,2,radio/TV,good,little,male,58.916666666666664,Adults
+No checking,own,2,business,good,No savings,male,124.08333333333333,Adults
+No checking,own,2,car,good,little,male,310.46666666666664,Adults
+No checking,own,2,repairs,good,little,male,72.58333333333333,Young
+moderate,own,2,radio/TV,bad,rich,male,228.35416666666666,Young
+little,free,3,furniture/equipment,bad,little,male,655.4166666666666,Mature-Seniors
+No checking,own,2,radio/TV,bad,little,male,164.22222222222223,Young
+little,free,2,furniture/equipment,good,little,male,131.20833333333334,Young
+rich,own,2,radio/TV,bad,little,male,116.94444444444444,Young
+No checking,free,1,car,good,quite rich,male,278.55555555555554,Mature-Seniors
+No checking,own,2,radio/TV,good,moderate,male,178.41666666666666,Adults
+moderate,own,1,radio/TV,good,little,male,48.111111111111114,Young
+No checking,own,1,radio/TV,good,little,male,386.0,Mature-Seniors
+little,own,3,radio/TV,bad,little,male,75.95833333333333,Adults
+moderate,own,0,car,bad,No savings,male,2425.8333333333335,Young
+moderate,rent,1,business,bad,moderate,male,131.76190476190476,Mature-Seniors
+No checking,own,2,radio/TV,good,little,female,107.58333333333333,Adults
+little,own,2,radio/TV,good,little,male,84.06666666666666,Adults
+little,own,2,car,bad,No savings,female,38.125,Young
+No checking,own,2,radio/TV,good,little,male,265.8333333333333,Mature-Seniors
+little,free,2,car,bad,little,male,95.9375,Young
+No checking,own,2,business,good,little,female,98.75,Young
+No checking,own,1,education,good,quite rich,female,287.25,Adults
+No checking,own,2,business,good,little,male,52.416666666666664,Young
+No checking,own,2,radio/TV,good,little,male,59.75,Mature-Seniors
+No checking,rent,2,car,good,moderate,male,200.66666666666666,Adults
+rich,own,2,furniture/equipment,good,little,male,80.20833333333333,Young
+No checking,rent,2,radio/TV,bad,little,female,24.055555555555557,Young
+little,own,1,car,good,rich,female,111.0,Adults
+rich,own,1,furniture/equipment,good,little,female,187.58333333333334,Mature-Seniors
+moderate,own,2,car,bad,little,female,71.66666666666667,Young
+No checking,own,2,furniture/equipment,good,moderate,male,172.95833333333334,Adults
+moderate,own,2,furniture/equipment,good,No savings,male,225.55555555555554,Young
+moderate,own,1,radio/TV,good,No savings,male,123.63333333333334,Young
+No checking,own,1,radio/TV,good,little,male,111.83333333333333,Adults
+little,free,2,radio/TV,bad,little,male,179.08333333333334,Young
+No checking,own,2,car,good,moderate,female,254.13333333333333,Young
+No checking,own,1,radio/TV,good,moderate,female,104.9090909090909,Mature-Seniors
+little,own,2,furniture/equipment,good,little,male,138.08333333333334,Young
+little,own,2,radio/TV,good,little,female,66.79166666666667,Mature-Seniors
+little,free,3,car,good,little,male,294.55555555555554,Adults
+No checking,free,1,education,good,little,female,229.0,Mature-Seniors
+No checking,own,1,car,good,little,male,123.1,Adults
+moderate,own,2,radio/TV,bad,little,male,53.46666666666667,Adults
+No checking,own,2,business,good,No savings,male,175.11111111111111,Adults
+No checking,own,2,radio/TV,good,little,female,63.875,Adults
+little,own,3,car,bad,little,male,641.2857142857143,Mature-Seniors
+No checking,own,2,radio/TV,good,No savings,male,41.625,Young
+No checking,own,2,car,good,No savings,male,147.88888888888889,Adults
+No checking,rent,2,furniture/equipment,good,quite rich,female,116.83333333333333,Adults
+moderate,free,3,car,good,No savings,male,253.52083333333334,Adults
+moderate,own,2,radio/TV,bad,little,male,63.75,Young
+little,own,1,repairs,bad,little,male,399.93333333333334,Adults
+No checking,own,2,radio/TV,good,little,male,299.6666666666667,Adults
+No checking,own,2,radio/TV,good,little,female,133.55555555555554,Young
+little,own,1,furniture/equipment,good,No savings,male,105.16666666666667,Mature-Seniors
+No checking,own,2,furniture/equipment,bad,little,female,768.5,Adults
+No checking,rent,3,radio/TV,good,moderate,male,79.20833333333333,Young
+No checking,rent,2,car,good,rich,male,224.53333333333333,Young
+No checking,own,2,furniture/equipment,good,little,male,131.16666666666666,Mature-Seniors
+rich,own,1,radio/TV,good,No savings,male,80.27777777777777,Mature-Seniors
+No checking,own,2,furniture/equipment,good,No savings,male,101.33333333333333,Mature-Seniors
+moderate,own,2,car,good,moderate,male,161.58333333333334,Adults
+little,own,1,car,good,little,female,228.12765957446808,Adults
+little,own,2,car,good,little,male,99.75,Young
+moderate,free,3,vacation/others,good,moderate,male,157.95833333333334,Adults
+moderate,own,2,radio/TV,good,little,female,91.0,Mature-Seniors
+little,own,2,radio/TV,bad,little,male,42.666666666666664,Mature-Seniors
+No checking,own,2,business,good,little,male,89.66666666666667,Young
+moderate,rent,3,car,bad,little,male,261.05555555555554,Young
+little,free,3,car,good,little,female,267.4583333333333,Mature-Seniors
+rich,free,2,car,good,little,male,114.19047619047619,Mature-Seniors
+No checking,own,3,business,good,No savings,male,158.9375,Mature-Seniors
+moderate,own,2,furniture/equipment,bad,little,female,207.5,Young
+No checking,rent,2,car,good,No savings,female,389.5833333333333,Young
+No checking,own,1,car,good,No savings,male,128.7,Mature-Seniors
+No checking,own,2,furniture/equipment,good,little,male,139.72222222222223,Mature-Seniors
+moderate,own,2,furniture/equipment,good,rich,male,130.71428571428572,Adults
+No checking,own,0,car,good,little,female,112.0,Mature-Seniors
+moderate,own,2,radio/TV,bad,little,female,105.66666666666667,Mature-Seniors
+rich,own,1,car,bad,No savings,male,56.0,Adults
+little,own,2,car,good,little,male,103.8,Mature-Seniors
+No checking,free,2,car,bad,quite rich,male,210.97916666666666,Mature-Seniors
+No checking,own,2,furniture/equipment,good,rich,male,257.1666666666667,Adults
+No checking,rent,1,car,good,No savings,female,160.36666666666667,Young
+little,own,1,radio/TV,bad,moderate,male,60.583333333333336,Adults
+moderate,own,2,furniture/equipment,bad,little,female,154.625,Young
+moderate,rent,1,car,good,little,male,30.666666666666668,Young
+moderate,free,0,vacation/others,good,No savings,male,112.10416666666667,Mature-Seniors
+No checking,own,2,furniture/equipment,good,moderate,male,229.625,Young
+rich,own,2,furniture/equipment,good,little,female,156.20833333333334,Young
+moderate,own,1,car,bad,little,male,57.083333333333336,Young
+rich,own,1,car,good,No savings,male,373.5,Young
+little,own,2,furniture/equipment,bad,little,male,76.27777777777777,Adults
+little,own,1,furniture/equipment,good,little,male,59.0,Adults
+moderate,own,1,furniture/equipment,good,No savings,female,181.29166666666666,Mature-Seniors
+No checking,own,2,education,good,little,male,58.416666666666664,Adults
+little,own,1,furniture/equipment,good,little,female,242.86666666666667,Young
+moderate,own,3,car,bad,little,male,141.63333333333333,Young
+little,own,2,radio/TV,bad,little,male,80.75,Adults
+little,free,3,car,good,little,male,121.25,Adults
+little,own,2,furniture/equipment,good,rich,male,147.72222222222223,Young
+No checking,own,2,car,good,little,female,57.111111111111114,Adults
+little,own,1,car,good,little,male,424.75,Adults
+No checking,rent,2,furniture/equipment,good,No savings,male,483.4166666666667,Mature-Seniors
+No checking,own,2,car,good,rich,female,63.541666666666664,Adults
+rich,own,2,radio/TV,good,little,male,124.25,Adults
+moderate,own,2,radio/TV,good,little,male,178.0,Young
+little,free,3,car,good,little,male,275.625,Mature-Seniors
+No checking,own,2,education,bad,moderate,female,103.55555555555556,Adults
+moderate,own,3,car,bad,moderate,female,123.46666666666667,Young
+No checking,rent,1,car,bad,moderate,female,241.45833333333334,Young
+little,rent,2,furniture/equipment,bad,little,male,171.25,Young
+little,rent,3,furniture/equipment,bad,little,male,564.0,Mature-Seniors
+moderate,own,1,radio/TV,good,little,female,161.6153846153846,Young
+little,rent,2,domestic appliances,bad,No savings,female,85.0,Young
+little,own,2,furniture/equipment,good,little,male,173.70833333333334,Young
+moderate,own,1,furniture/equipment,good,little,male,152.1,Adults
+moderate,free,2,education,good,little,female,239.29166666666666,Young
+little,rent,1,furniture/equipment,good,little,female,171.38095238095238,Young
+moderate,rent,2,radio/TV,good,quite rich,male,178.5,Young
+moderate,own,3,business,good,little,male,246.61111111111111,Adults
+rich,own,1,car,good,little,male,394.9,Adults
+No checking,own,1,radio/TV,good,little,female,97.26666666666667,Mature-Seniors
+moderate,own,2,radio/TV,good,little,male,67.84615384615384,Young
+moderate,rent,0,radio/TV,good,quite rich,female,156.58333333333334,Young
+No checking,own,1,business,good,moderate,male,290.5,Adults
+moderate,free,2,education,bad,rich,male,126.22222222222223,Adults
+No checking,rent,2,domestic appliances,good,little,female,137.33333333333334,Young
+moderate,own,2,furniture/equipment,bad,little,female,106.55555555555556,Young
+No checking,own,3,car,good,No savings,male,179.38888888888889,Adults
+little,rent,2,radio/TV,bad,little,male,516.5833333333334,Young
+No checking,free,2,education,good,quite rich,male,72.7,Mature-Seniors
+moderate,own,1,car,bad,little,male,51.916666666666664,Young
+No checking,own,2,radio/TV,good,No savings,male,194.25,Mature-Seniors
+No checking,own,3,radio/TV,bad,little,male,123.97222222222223,Young
+No checking,own,2,radio/TV,good,little,male,64.66666666666667,Young
+little,rent,2,furniture/equipment,bad,little,female,80.2,Young
+moderate,free,2,education,good,No savings,male,68.83333333333333,Mature-Seniors
+rich,own,3,radio/TV,good,No savings,male,283.25,Adults
+rich,own,2,car,good,little,female,187.25,Adults
+No checking,rent,2,furniture/equipment,good,little,male,294.3333333333333,Young
+little,own,0,furniture/equipment,bad,little,male,137.38888888888889,Young
+No checking,own,2,business,good,little,male,128.5,Adults
+No checking,own,2,car,good,little,male,213.88888888888889,Young
+little,rent,2,furniture/equipment,good,little,female,202.77777777777777,Young
+little,own,2,furniture/equipment,bad,little,male,95.72222222222223,Mature-Seniors
+moderate,rent,2,furniture/equipment,good,little,female,166.72222222222223,Mature-Seniors
+No checking,own,2,car,good,No savings,male,85.52777777777777,Adults
+No checking,own,2,radio/TV,good,little,male,337.22222222222223,Adults
+No checking,rent,2,furniture/equipment,good,little,female,214.6,Young
+No checking,free,3,car,good,No savings,male,229.26666666666668,Mature-Seniors
+moderate,free,3,vacation/others,bad,moderate,female,246.36666666666667,Mature-Seniors
+little,rent,2,business,bad,little,female,160.10416666666666,Adults
+No checking,own,2,radio/TV,good,little,male,128.88888888888889,Adults
+No checking,free,2,radio/TV,good,No savings,male,120.85714285714286,Adults
+moderate,free,3,car,bad,little,male,397.72222222222223,Mature-Seniors
+No checking,own,1,car,good,moderate,female,60.333333333333336,Mature-Seniors
+little,own,2,furniture/equipment,good,No savings,male,110.6,Adults
+moderate,free,3,car,bad,little,female,720.8888888888889,Adults
+No checking,rent,2,car,good,No savings,female,58.31818181818182,Young
+rich,own,2,car,good,little,male,110.83333333333333,Young
+No checking,own,1,business,good,moderate,male,142.4,Young
+No checking,own,2,radio/TV,good,little,female,124.33333333333333,Young
+No checking,rent,2,radio/TV,good,No savings,female,62.55555555555556,Young
+moderate,own,3,furniture/equipment,good,little,male,409.6666666666667,Mature-Seniors
+moderate,own,2,business,good,quite rich,male,155.06666666666666,Young
+No checking,own,2,business,good,little,female,161.0,Young
+No checking,own,3,car,good,little,male,101.11111111111111,Adults
+moderate,rent,1,furniture/equipment,good,rich,female,81.91666666666667,
+little,free,3,car,good,little,male,90.25,Adults
+little,own,2,radio/TV,good,little,female,326.1666666666667,Adults
+No checking,own,3,furniture/equipment,good,little,male,267.3333333333333,Adults
+moderate,rent,2,education,good,moderate,male,301.53846153846155,Adults
+little,free,3,furniture/equipment,good,little,female,214.83333333333334,Mature-Seniors
+little,own,2,furniture/equipment,good,little,male,65.22222222222223,Mature-Seniors
+moderate,rent,2,car,bad,little,male,101.91666666666667,Mature-Seniors
+No checking,own,1,radio/TV,good,rich,female,63.166666666666664,Mature-Seniors
+No checking,own,2,radio/TV,good,little,male,81.83333333333333,Adults
+moderate,own,2,business,good,No savings,male,104.83333333333333,Young
+No checking,own,2,business,bad,little,male,360.3333333333333,Young
+No checking,own,1,car,good,little,male,57.285714285714285,Young
+moderate,own,2,car,good,No savings,male,161.05555555555554,Mature-Seniors
+moderate,own,2,radio/TV,bad,little,male,84.95833333333333,Young
+No checking,own,2,car,good,No savings,male,91.54166666666667,Mature-Seniors
+little,own,2,radio/TV,good,little,male,70.2,Young
+No checking,own,3,radio/TV,good,quite rich,male,134.79166666666666,Young
+rich,own,2,car,bad,quite rich,male,78.25,Young
+moderate,own,2,radio/TV,good,little,female,81.95833333333333,Young
+No checking,own,3,car,good,little,male,219.78787878787878,Adults
+No checking,own,3,business,bad,little,male,191.0,Mature-Seniors
+No checking,rent,1,car,good,quite rich,male,159.7,Mature-Seniors
+little,own,2,car,bad,No savings,female,57.541666666666664,Adults
+No checking,own,2,car,good,little,male,162.27777777777777,Adults
+little,own,1,car,bad,little,male,214.91666666666666,Adults
+little,rent,2,education,good,No savings,female,470.6111111111111,Young
+No checking,own,3,car,good,quite rich,female,132.47619047619048,Adults
+moderate,own,2,car,bad,No savings,female,57.888888888888886,Adults
+No checking,rent,2,car,good,rich,female,212.4,Young
+moderate,own,2,car,good,No savings,male,169.0,Adults
+moderate,own,1,car,good,little,male,79.83333333333333,Mature-Seniors
+No checking,own,3,furniture/equipment,good,moderate,male,75.76190476190476,Adults
+moderate,own,2,furniture/equipment,bad,No savings,female,230.16666666666666,Young
+moderate,rent,2,car,good,little,male,154.38888888888889,Young
+No checking,own,2,radio/TV,good,little,male,97.96428571428571,Young
+No checking,own,2,radio/TV,good,rich,male,63.833333333333336,Mature-Seniors
+No checking,own,2,furniture/equipment,good,little,male,145.88888888888889,Young
+little,free,0,repairs,bad,little,female,66.11111111111111,Mature-Seniors
+No checking,own,1,business,good,little,male,689.6,Mature-Seniors
+moderate,own,3,vacation/others,bad,little,male,472.0,Young
+little,free,3,furniture/equipment,good,little,male,312.0,Adults
+No checking,own,2,repairs,good,little,male,85.75,Adults
+little,own,2,furniture/equipment,good,little,male,237.33333333333334,Young
+moderate,own,2,radio/TV,bad,No savings,male,123.66666666666667,Young
+No checking,rent,1,repairs,good,quite rich,male,110.0,Young
+No checking,own,2,car,good,rich,female,53.625,Adults
+little,own,0,repairs,good,little,male,80.80952380952381,Mature-Seniors
+rich,own,0,business,bad,little,female,50.75,Young
+No checking,own,3,car,good,little,male,157.0,Adults
+little,own,2,furniture/equipment,good,little,female,135.0,Adults
+moderate,own,2,vacation/others,good,little,male,131.45,Young
+No checking,own,1,education,bad,little,male,59.916666666666664,Mature-Seniors
+moderate,own,3,furniture/equipment,bad,little,female,106.16666666666667,Adults
+No checking,rent,1,education,good,No savings,female,138.22222222222223,Mature-Seniors
+little,own,2,car,bad,little,female,51.166666666666664,Adults
+moderate,own,2,radio/TV,good,little,male,368.0,Adults
+rich,own,3,furniture/equipment,good,No savings,female,118.66666666666667,Mature-Seniors
+moderate,own,2,repairs,bad,rich,male,100.8,Mature-Seniors
+No checking,own,3,car,good,No savings,male,307.05555555555554,Adults
+No checking,own,2,radio/TV,good,little,female,86.33333333333333,Young
+No checking,own,2,furniture/equipment,good,little,male,229.91666666666666,Adults
+No checking,own,3,car,good,little,male,111.25,Adults
+little,own,2,car,bad,little,male,200.70833333333334,Adults
+No checking,own,3,car,good,little,female,111.625,Young
+little,rent,2,car,good,little,male,355.0,Adults
+little,free,2,car,bad,little,male,282.1666666666667,Adults
+little,own,2,domestic appliances,good,little,female,57.166666666666664,Young
+No checking,own,2,radio/TV,good,little,male,255.22222222222223,Adults
+little,own,2,furniture/equipment,good,little,male,100.55555555555556,Adults
+little,own,2,car,good,little,male,114.73333333333333,Adults
+moderate,rent,3,furniture/equipment,good,little,female,251.41666666666666,Adults
+moderate,own,2,education,good,No savings,male,62.833333333333336,Adults
+No checking,own,2,business,good,little,male,108.33333333333333,Adults
+little,own,2,car,good,little,male,121.83333333333333,Mature-Seniors
+little,rent,1,radio/TV,bad,little,female,69.125,Young
+No checking,own,2,radio/TV,good,No savings,male,150.79166666666666,Adults
+No checking,own,2,business,good,little,female,83.75757575757575,Young
+No checking,own,1,car,good,little,male,194.95833333333334,Adults
+moderate,rent,2,radio/TV,bad,moderate,male,128.83333333333334,Young
+little,own,2,education,bad,little,female,74.66666666666667,Young
+little,own,1,car,bad,little,male,72.66666666666667,Young
+No checking,own,3,education,good,No savings,male,206.33333333333334,Adults
+moderate,own,2,radio/TV,bad,little,male,69.16666666666667,Adults
+little,rent,2,furniture/equipment,bad,little,female,173.0,Young
+No checking,own,2,car,good,quite rich,male,65.87179487179488,Young
+rich,own,2,radio/TV,good,little,male,214.66666666666666,Young
+moderate,own,1,business,good,moderate,male,86.41666666666667,Adults
+little,own,2,furniture/equipment,good,little,male,98.53333333333333,Mature-Seniors
+moderate,own,1,radio/TV,good,little,female,297.75,Young
+moderate,own,2,car,good,little,male,50.041666666666664,Young
+little,rent,2,furniture/equipment,good,rich,female,120.73333333333333,Mature-Seniors
+No checking,own,2,furniture/equipment,good,rich,female,64.0,Adults
+No checking,own,2,car,good,quite rich,male,96.91666666666667,Mature-Seniors
+moderate,own,3,car,bad,little,male,201.5,Mature-Seniors
+No checking,own,2,radio/TV,good,little,male,256.4166666666667,Mature-Seniors
+No checking,free,2,car,good,little,female,156.54166666666666,Mature-Seniors
+No checking,rent,1,car,good,moderate,male,141.8,Adults
+No checking,rent,2,car,good,little,male,586.3333333333334,Young
+No checking,own,2,radio/TV,good,little,male,161.16666666666666,Young
+moderate,free,3,business,bad,little,female,308.0740740740741,Mature-Seniors
+No checking,own,2,radio/TV,good,moderate,female,206.16666666666666,Young
+moderate,own,2,radio/TV,good,No savings,male,61.333333333333336,Adults
+little,rent,1,car,good,little,male,176.83333333333334,Adults
+little,own,2,furniture/equipment,bad,No savings,male,124.83333333333333,Young
+moderate,rent,3,furniture/equipment,bad,moderate,male,250.94444444444446,Young
+No checking,own,2,furniture/equipment,good,little,male,66.04166666666667,Mature-Seniors
+moderate,own,1,radio/TV,good,little,male,72.27777777777777,Adults
+rich,own,2,car,good,moderate,male,220.5,Young
+little,own,2,car,bad,little,female,130.125,Young
+little,free,2,car,good,little,male,152.58333333333334,Mature-Seniors
+rich,own,2,radio/TV,good,moderate,male,125.11111111111111,Mature-Seniors
+moderate,own,2,radio/TV,bad,moderate,male,50.666666666666664,Adults
+little,rent,2,car,bad,little,female,50.291666666666664,Young
+No checking,own,1,car,bad,No savings,male,130.9,Young
+rich,own,2,car,good,quite rich,male,157.33333333333334,Adults
+moderate,own,3,car,bad,moderate,male,456.6666666666667,Adults
+No checking,own,2,radio/TV,good,little,male,58.875,Young
+No checking,own,3,car,good,moderate,male,220.2051282051282,Mature-Seniors
+little,own,2,car,bad,little,male,63.25,Young
+No checking,free,3,car,good,little,male,130.16666666666666,Adults
+rich,rent,2,business,good,little,male,179.13333333333333,Young
+moderate,rent,2,radio/TV,good,little,male,48.75,Young
+No checking,own,2,car,good,No savings,male,93.95833333333333,Mature-Seniors
+little,own,2,car,good,little,female,101.5,Adults
+little,own,1,car,good,little,male,226.83333333333334,Mature-Seniors
+No checking,rent,2,furniture/equipment,bad,little,female,197.97222222222223,Young
+little,own,2,car,good,moderate,male,200.5,Mature-Seniors
+No checking,free,2,radio/TV,good,No savings,male,116.66666666666667,Adults
+No checking,free,2,repairs,good,little,male,229.45833333333334,Mature-Seniors
+little,own,2,radio/TV,bad,little,female,177.22222222222223,Young
+little,free,2,furniture/equipment,bad,little,male,148.3125,Mature-Seniors
+No checking,own,2,car,good,moderate,female,145.33333333333334,Young
+moderate,own,1,radio/TV,good,little,female,61.833333333333336,Young
+moderate,own,2,car,good,little,male,306.38461538461536,Adults
+No checking,own,2,education,good,moderate,female,102.13333333333334,Adults
+No checking,own,1,radio/TV,good,little,male,375.75,Mature-Seniors
+little,rent,2,radio/TV,bad,little,male,63.94444444444444,Adults
+little,own,1,car,good,little,male,110.33333333333333,Mature-Seniors
+moderate,own,2,education,good,little,male,63.138888888888886,Adults
+moderate,rent,2,car,bad,moderate,female,175.4,Young
+No checking,rent,2,car,good,little,male,125.25,Mature-Seniors
+No checking,own,2,radio/TV,good,moderate,male,54.625,Young
+No checking,own,2,radio/TV,good,No savings,male,129.375,Young
+rich,rent,2,education,bad,little,male,110.42857142857143,Adults
+little,own,3,car,good,No savings,female,229.0,Mature-Seniors
+moderate,own,2,furniture/equipment,good,little,female,200.66666666666666,Adults
+little,free,3,car,bad,little,male,161.72916666666666,Mature-Seniors
+rich,own,1,furniture/equipment,good,little,female,169.38888888888889,Mature-Seniors
+moderate,rent,2,radio/TV,bad,little,male,127.83333333333333,Young
+No checking,free,2,car,good,little,male,84.66666666666667,Mature-Seniors
+little,own,2,furniture/equipment,bad,No savings,male,211.66666666666666,Adults
+rich,own,1,furniture/equipment,bad,little,male,159.11111111111111,Adults
+No checking,own,1,car,good,little,male,104.58333333333333,Mature-Seniors
+little,free,2,car,bad,little,male,55.541666666666664,Mature-Seniors
+No checking,own,2,car,good,little,female,84.25,Adults
+No checking,own,2,radio/TV,good,little,male,64.66666666666667,Adults
+little,own,1,radio/TV,bad,little,female,52.166666666666664,Young
+No checking,free,2,car,good,No savings,male,184.54166666666666,Adults
+No checking,own,2,repairs,good,No savings,female,83.0,Young
+No checking,own,1,radio/TV,good,quite rich,male,291.6666666666667,Mature-Seniors
+little,own,2,radio/TV,bad,little,male,145.8125,Adults
+moderate,own,2,car,good,moderate,male,166.25,Young
+moderate,own,3,education,good,little,female,133.22222222222223,Mature-Seniors
+moderate,own,2,radio/TV,bad,little,male,110.91666666666667,Young
+moderate,own,2,car,bad,moderate,female,126.55555555555556,Young
+No checking,own,2,car,bad,No savings,female,238.23809523809524,Young
+little,own,2,furniture/equipment,bad,little,male,148.0,Young
+moderate,own,1,furniture/equipment,bad,little,male,107.11111111111111,Adults
+little,free,2,car,good,No savings,male,123.5,Mature-Seniors
+little,rent,1,radio/TV,bad,little,male,64.41666666666667,Young
+rich,own,2,radio/TV,good,little,female,113.83333333333333,Young
+moderate,free,2,car,bad,No savings,male,344.1388888888889,Adults
+moderate,own,3,business,good,No savings,male,196.33333333333334,Adults
+moderate,rent,2,radio/TV,good,moderate,female,64.70833333333333,Young
+little,own,2,car,bad,little,male,114.33333333333333,Adults
+No checking,own,2,radio/TV,good,rich,male,107.41666666666667,Adults
+moderate,own,2,radio/TV,good,No savings,male,82.89583333333333,Mature-Seniors
+little,own,2,radio/TV,bad,little,female,140.79166666666666,Adults
+little,rent,1,furniture/equipment,bad,little,female,134.75,Young
+No checking,own,2,radio/TV,good,little,male,198.46666666666667,Adults
+No checking,rent,3,car,good,No savings,female,226.375,Young
+little,own,1,business,good,little,female,53.733333333333334,Young
+moderate,own,1,radio/TV,good,little,male,120.22222222222223,Young
+No checking,own,2,furniture/equipment,good,little,female,185.86666666666667,Young
+moderate,own,2,radio/TV,good,little,female,244.16666666666666,Young
+No checking,own,2,education,good,No savings,female,80.29166666666667,Adults
+moderate,own,2,car,bad,little,male,78.33333333333333,Young
+No checking,own,1,education,good,little,male,39.041666666666664,Young
+moderate,own,2,car,bad,little,male,58.666666666666664,Adults
+moderate,own,1,car,good,little,male,260.3333333333333,Mature-Seniors
+No checking,rent,2,furniture/equipment,good,little,female,154.22222222222223,Young
+moderate,rent,1,repairs,bad,little,male,66.22222222222223,Adults
+No checking,free,3,car,good,No savings,female,177.75,Mature-Seniors
+little,rent,2,furniture/equipment,bad,little,female,113.27777777777777,Young
+little,rent,2,car,good,little,male,311.0,Adults
+little,own,1,furniture/equipment,good,little,male,107.41666666666667,Young
+little,own,1,domestic appliances,bad,little,male,67.61111111111111,Mature-Seniors
+little,own,2,furniture/equipment,bad,little,male,187.16666666666666,Mature-Seniors
+little,own,1,radio/TV,good,little,female,32.083333333333336,Mature-Seniors
+moderate,rent,2,car,good,No savings,female,81.875,Mature-Seniors
+No checking,own,1,business,good,rich,female,74.85714285714286,Adults
+moderate,rent,1,car,bad,little,female,113.25,Young
+little,own,3,vacation/others,bad,No savings,male,56.583333333333336,Mature-Seniors
+moderate,own,1,car,bad,moderate,female,155.16666666666666,Adults
+little,rent,2,car,bad,little,female,60.083333333333336,Young
+moderate,own,1,business,bad,little,male,176.70833333333334,Adults
+No checking,own,2,car,bad,little,male,154.16666666666666,Adults
+No checking,free,2,business,good,little,male,160.95833333333334,Adults
+moderate,own,2,radio/TV,good,little,female,332.7142857142857,Mature-Seniors
+moderate,own,2,furniture/equipment,bad,little,female,102.0,Adults
+moderate,free,1,education,bad,little,female,76.54166666666667,Adults
+No checking,own,3,furniture/equipment,bad,little,female,93.02777777777777,Young
+rich,own,2,furniture/equipment,good,little,female,127.5,Young
+little,own,2,furniture/equipment,good,quite rich,male,117.83333333333333,Young
+No checking,own,3,business,good,little,male,188.58333333333334,Mature-Seniors
+moderate,free,2,radio/TV,bad,moderate,female,74.19444444444444,Mature-Seniors
+No checking,own,2,radio/TV,good,little,male,113.94444444444444,Adults
+No checking,free,2,car,good,No savings,male,86.66666666666667,Mature-Seniors
+little,own,2,domestic appliances,bad,moderate,female,61.75,Young
+rich,free,1,car,bad,moderate,female,124.0,Mature-Seniors
+little,own,2,radio/TV,good,rich,female,159.85714285714286,Young
+little,rent,2,car,good,little,female,151.33333333333334,Young
+No checking,own,2,furniture/equipment,bad,little,female,100.44444444444444,Young
+moderate,own,3,business,good,No savings,male,254.25,Mature-Seniors
+moderate,free,3,radio/TV,good,No savings,male,152.61666666666667,Young
+little,rent,2,car,good,little,male,612.6666666666666,Adults
+moderate,rent,2,furniture/equipment,bad,moderate,female,114.7,Young
+No checking,own,1,car,good,little,male,53.333333333333336,Mature-Seniors
+moderate,own,2,business,good,little,male,173.9047619047619,Young
+No checking,own,2,car,bad,little,male,85.0,Adults
+No checking,own,2,business,bad,No savings,male,81.54166666666667,Adults
+little,rent,2,furniture/equipment,good,little,female,154.83333333333334,Young
+little,free,2,radio/TV,bad,little,male,144.44444444444446,Mature-Seniors
+No checking,own,2,radio/TV,good,No savings,male,131.93333333333334,Adults
+rich,own,2,furniture/equipment,good,little,male,352.6666666666667,Mature-Seniors
+moderate,own,2,car,bad,moderate,male,159.66666666666666,Young
+No checking,own,2,furniture/equipment,good,quite rich,male,96.23809523809524,Adults
+No checking,own,1,education,good,No savings,male,425.77777777777777,Mature-Seniors
+little,own,2,radio/TV,good,little,female,152.5,Young
+little,own,2,furniture/equipment,bad,little,male,86.27777777777777,Mature-Seniors
+moderate,own,2,radio/TV,good,No savings,male,96.26666666666667,Young
+No checking,rent,2,furniture/equipment,bad,little,female,220.0,
+moderate,own,1,car,bad,little,female,56.458333333333336,Young
+No checking,own,2,education,good,little,male,116.08333333333333,Mature-Seniors
+No checking,own,2,radio/TV,good,quite rich,female,57.333333333333336,Young
+No checking,own,2,radio/TV,good,little,male,260.8833333333333,Young
+No checking,own,2,radio/TV,good,little,female,124.41666666666667,Adults
+little,own,2,radio/TV,bad,little,male,104.04761904761905,Young
+little,own,0,education,bad,little,female,41.666666666666664,Young
+moderate,own,1,repairs,good,little,male,87.2,Adults
+No checking,own,3,education,bad,moderate,male,308.2,Mature-Seniors
+No checking,own,2,radio/TV,good,little,male,77.125,Adults
+little,own,3,radio/TV,good,little,male,104.44444444444444,Adults
+No checking,rent,2,business,bad,No savings,male,221.66666666666666,Young
+little,own,2,furniture/equipment,good,little,male,152.76666666666668,Adults
+No checking,own,2,car,bad,quite rich,female,115.5,Young
+rich,free,2,car,bad,little,male,39.458333333333336,Adults
+little,rent,1,education,bad,little,male,57.0,Mature-Seniors
+little,free,3,education,good,little,male,155.75,Mature-Seniors
+moderate,own,1,furniture/equipment,bad,little,male,160.16666666666666,Adults
+little,own,2,car,bad,little,male,95.95833333333333,Mature-Seniors
+moderate,own,3,car,bad,moderate,male,224.61111111111111,Mature-Seniors
+No checking,own,2,car,good,little,male,97.75,Adults
+little,free,2,car,good,little,male,283.7857142857143,Young
+moderate,own,1,car,bad,little,male,74.0,Mature-Seniors
+No checking,own,2,radio/TV,good,No savings,male,212.95833333333334,Adults
+moderate,own,2,business,good,little,female,140.7,Young
+moderate,own,2,furniture/equipment,good,little,male,353.3888888888889,Mature-Seniors
+rich,rent,2,radio/TV,good,little,male,108.08333333333333,Young
+little,own,2,car,bad,No savings,male,75.0,Young
+No checking,own,2,furniture/equipment,good,little,male,106.71428571428571,Mature-Seniors
+moderate,own,3,furniture/equipment,good,little,male,175.0,Adults
+rich,own,1,education,good,little,female,174.5,Mature-Seniors
+No checking,own,3,vacation/others,good,little,male,263.0833333333333,Young
+moderate,own,2,furniture/equipment,good,rich,male,116.53333333333333,Adults
+No checking,own,2,business,good,little,female,75.1875,Young
+little,rent,2,car,bad,little,male,403.5833333333333,Mature-Seniors
+rich,own,2,radio/TV,good,little,male,100.56666666666666,Mature-Seniors
+No checking,own,1,business,good,moderate,male,172.45833333333334,Young
+No checking,own,2,business,good,moderate,male,159.5,Adults
+No checking,own,3,car,good,little,male,172.76666666666668,Mature-Seniors
+No checking,own,2,car,good,quite rich,male,346.6666666666667,Young
+No checking,own,1,business,bad,quite rich,male,122.85714285714286,Mature-Seniors
+No checking,rent,3,radio/TV,good,little,female,151.0,Young
+No checking,own,2,furniture/equipment,good,little,male,214.58333333333334,Adults
+moderate,own,2,radio/TV,bad,moderate,male,77.70833333333333,Young
+little,rent,1,radio/TV,good,little,male,99.33333333333333,Mature-Seniors
+No checking,own,2,radio/TV,good,little,female,80.72222222222223,Young
+No checking,own,2,education,good,little,female,256.3333333333333,Mature-Seniors
+No checking,free,2,radio/TV,good,No savings,male,189.91666666666666,Adults
+No checking,own,2,radio/TV,good,little,male,98.53333333333333,Adults
+No checking,free,2,radio/TV,good,little,male,212.625,Mature-Seniors
+moderate,own,1,business,good,moderate,male,273.80555555555554,Adults
+No checking,free,2,car,good,No savings,male,108.78333333333333,Adults
+rich,own,2,radio/TV,good,No savings,male,134.7,Young
+moderate,free,2,car,good,moderate,male,79.5,Adults
+No checking,own,2,radio/TV,good,moderate,male,305.8888888888889,Adults
+little,own,2,car,good,rich,male,304.25,Adults
+little,own,2,furniture/equipment,good,little,male,65.0,Young
+moderate,own,1,repairs,good,moderate,female,175.4,Young
+moderate,own,2,radio/TV,good,moderate,male,120.66666666666667,Young
+little,own,1,car,good,No savings,male,786.0,Mature-Seniors
+No checking,own,2,radio/TV,good,little,male,95.16666666666667,Young
+No checking,rent,2,car,good,quite rich,male,206.0,Mature-Seniors
+moderate,own,2,radio/TV,good,little,male,91.91666666666667,Young
+No checking,own,0,car,good,little,female,77.16666666666667,Adults
+No checking,own,2,radio/TV,good,little,male,100.0,Young
+rich,rent,3,education,good,little,male,127.0,Mature-Seniors
+No checking,rent,1,furniture/equipment,bad,quite rich,female,93.58333333333333,Young
+little,free,2,car,bad,little,male,131.89583333333334,Mature-Seniors
+rich,free,2,radio/TV,good,moderate,female,57.375,Mature-Seniors
+moderate,own,2,business,good,moderate,male,83.43333333333334,Mature-Seniors
+moderate,own,2,business,good,little,female,93.62962962962963,Adults
+No checking,free,2,car,good,quite rich,female,354.93333333333334,Adults
+moderate,own,2,car,bad,moderate,male,136.66666666666666,Young
+moderate,rent,2,furniture/equipment,bad,little,female,247.41666666666666,Young
+moderate,own,2,radio/TV,good,little,female,134.0,Young
+moderate,own,1,radio/TV,good,little,male,235.33333333333334,Adults
+No checking,own,3,radio/TV,good,quite rich,male,34.94444444444444,Adults
+little,free,2,education,bad,little,female,199.66666666666666,Adults
+No checking,own,3,car,good,No savings,male,117.9047619047619,Mature-Seniors
+little,own,1,radio/TV,good,little,male,126.44444444444444,Young
+moderate,own,3,car,bad,little,male,233.78333333333333,Young
+No checking,own,2,car,good,No savings,male,253.2,Mature-Seniors
+No checking,own,2,radio/TV,good,No savings,male,102.56666666666666,Mature-Seniors
+No checking,free,3,radio/TV,good,little,male,83.61111111111111,Adults
+rich,own,2,radio/TV,good,No savings,male,131.16666666666666,Adults
+moderate,own,2,car,good,moderate,male,307.4,Adults
+rich,own,3,radio/TV,bad,little,male,148.55555555555554,Adults
+moderate,rent,2,education,bad,rich,female,72.16666666666667,Young
+little,own,1,car,bad,little,female,102.33333333333333,Young
+moderate,own,1,radio/TV,good,quite rich,female,87.77777777777777,Mature-Seniors
+No checking,rent,2,car,bad,little,female,95.18518518518519,Young
+No checking,own,1,car,good,rich,female,41.666666666666664,Mature-Seniors
+No checking,own,1,radio/TV,good,quite rich,male,87.73333333333333,Mature-Seniors
+little,rent,2,radio/TV,bad,little,female,104.55555555555556,Young
+moderate,rent,2,business,bad,little,female,133.66666666666666,Mature-Seniors
+rich,own,2,business,good,rich,male,53.125,Adults
+moderate,own,2,radio/TV,good,little,male,266.7916666666667,Adults
+little,rent,1,radio/TV,bad,little,male,82.79166666666667,Young
+moderate,own,1,radio/TV,good,little,female,95.0,Mature-Seniors
+No checking,rent,2,car,good,rich,female,108.45833333333333,Young
+No checking,own,2,car,good,little,female,845.0,Adults
+moderate,own,0,domestic appliances,good,No savings,female,110.83333333333333,Young
+moderate,rent,3,car,bad,little,female,481.6666666666667,Young
+little,own,1,car,good,moderate,male,243.33333333333334,Adults
+No checking,own,3,car,good,little,male,1126.8333333333333,Mature-Seniors
+moderate,rent,1,business,bad,moderate,female,142.66666666666666,Young
+little,own,2,car,good,moderate,male,96.875,Adults
+moderate,own,1,radio/TV,good,little,male,104.8,Young
+No checking,own,2,radio/TV,good,No savings,male,150.47619047619048,Mature-Seniors
+little,own,2,furniture/equipment,good,quite rich,male,103.45833333333333,Young
+little,own,3,furniture/equipment,good,No savings,male,363.56410256410254,Adults
+little,own,1,business,good,little,male,138.23076923076923,Young
+little,rent,2,car,good,little,female,167.4,Young
+little,own,1,car,bad,little,female,106.16666666666667,Adults
+No checking,own,2,car,good,No savings,male,249.9047619047619,Young
+No checking,own,2,car,good,little,male,201.93333333333334,Adults
+little,own,2,furniture/equipment,good,little,female,71.33333333333333,Mature-Seniors
+little,own,1,car,bad,little,female,54.22222222222222,Young
+moderate,rent,1,business,good,moderate,female,70.08333333333333,Young
+No checking,own,2,radio/TV,good,little,female,192.36666666666667,Young
+No checking,free,2,repairs,bad,rich,male,129.58333333333334,Mature-Seniors
+little,rent,2,car,bad,No savings,female,53.541666666666664,Adults
+rich,own,0,car,good,little,male,216.5,Mature-Seniors
+rich,free,2,radio/TV,bad,No savings,male,84.73333333333333,Adults
+No checking,own,2,car,good,little,male,58.041666666666664,Adults
+little,own,2,car,bad,little,male,57.583333333333336,Adults
+No checking,own,2,car,good,No savings,female,336.3333333333333,Mature-Seniors
+little,rent,2,furniture/equipment,bad,little,female,118.0,Young
+little,own,1,radio/TV,good,little,male,184.5,Young
+No checking,free,3,car,bad,No savings,male,603.8095238095239,Adults
+No checking,own,2,car,good,moderate,male,102.625,Young
+moderate,own,1,radio/TV,good,little,male,96.25,Mature-Seniors
+little,own,1,furniture/equipment,bad,little,male,103.6,Adults
+No checking,rent,2,car,good,No savings,female,290.1,Adults
+moderate,rent,2,furniture/equipment,good,little,male,301.4166666666667,Young
+No checking,own,1,radio/TV,good,little,male,137.91666666666666,Mature-Seniors
+little,rent,2,car,good,No savings,female,117.16666666666667,Young
+little,own,3,education,bad,little,female,224.02777777777777,Young
+No checking,own,3,car,good,little,male,155.95238095238096,Adults
+No checking,own,2,radio/TV,good,moderate,male,92.625,Mature-Seniors
+rich,free,0,car,good,quite rich,male,123.33333333333333,Mature-Seniors
+little,rent,2,car,bad,No savings,female,57.125,Young
+No checking,own,2,car,good,little,male,98.19444444444444,Adults
+little,own,2,radio/TV,good,little,female,194.94444444444446,Young
+No checking,own,3,car,good,rich,male,158.63888888888889,Adults
+moderate,own,2,repairs,good,little,female,215.11111111111111,Mature-Seniors
+moderate,own,2,radio/TV,bad,little,male,126.48717948717949,Young
+No checking,own,2,car,good,rich,male,80.83333333333333,Mature-Seniors
+moderate,own,1,education,good,little,male,117.5,Adults
+moderate,own,1,car,bad,moderate,female,69.66666666666667,Young
+moderate,own,3,car,good,No savings,male,323.4,Mature-Seniors
+moderate,own,1,business,good,rich,male,107.83333333333333,Adults
+No checking,own,2,radio/TV,good,quite rich,male,121.5909090909091,Mature-Seniors
+No checking,own,2,car,good,No savings,male,57.3125,Adults
+moderate,free,2,education,bad,little,male,129.66666666666666,Mature-Seniors
+little,own,2,education,bad,little,male,149.95,Young
+moderate,own,2,business,bad,little,female,56.57142857142857,Adults
+No checking,own,3,car,good,No savings,male,263.0416666666667,Mature-Seniors
+No checking,own,2,furniture/equipment,good,No savings,male,203.5,Young
+rich,free,2,furniture/equipment,good,little,male,120.5,Mature-Seniors
+No checking,rent,2,furniture/equipment,good,quite rich,male,127.58333333333333,Adults
+No checking,rent,2,furniture/equipment,good,moderate,female,255.66666666666666,Young
+little,free,2,car,bad,No savings,male,417.27777777777777,Mature-Seniors
+No checking,rent,1,furniture/equipment,good,little,female,104.83333333333333,Young
+No checking,own,2,car,good,No savings,male,29.875,Mature-Seniors
+moderate,own,0,car,good,No savings,male,172.11111111111111,Adults
+No checking,free,2,education,good,little,male,66.54166666666667,Mature-Seniors
+moderate,rent,1,radio/TV,good,little,female,99.72222222222223,Mature-Seniors
+little,own,2,furniture/equipment,good,little,female,213.6,Young
+No checking,own,2,radio/TV,good,No savings,male,81.33333333333333,Adults
+moderate,rent,0,car,good,No savings,female,622.6666666666666,Young
+little,own,2,car,bad,little,male,257.52777777777777,Young
+moderate,own,1,radio/TV,good,little,male,98.33333333333333,Young
+No checking,own,2,radio/TV,good,No savings,male,77.5,Mature-Seniors
+moderate,free,3,car,good,little,male,221.02380952380952,Mature-Seniors
+moderate,rent,0,car,bad,little,female,118.53333333333333,Young
+moderate,own,2,business,good,little,male,113.375,Young
+moderate,own,1,radio/TV,good,little,male,80.66666666666667,Young
+little,own,2,car,bad,little,male,267.47222222222223,Young
+little,own,2,domestic appliances,bad,little,male,63.5625,Mature-Seniors
+little,free,2,car,bad,little,male,81.89583333333333,Mature-Seniors
+moderate,rent,2,car,good,little,female,206.44444444444446,Mature-Seniors
+No checking,own,2,domestic appliances,good,quite rich,male,223.0,Mature-Seniors
+No checking,rent,2,radio/TV,good,little,female,259.0,Young
+little,own,3,vacation/others,good,little,male,440.47222222222223,Mature-Seniors
+little,own,2,radio/TV,bad,little,male,74.72222222222223,Young
+No checking,own,2,car,good,little,male,91.75,Young
+rich,own,2,radio/TV,good,little,male,251.33333333333334,Young
+little,own,2,furniture/equipment,bad,little,male,75.33333333333333,Mature-Seniors
+little,own,1,car,good,little,male,91.375,Mature-Seniors
+No checking,own,3,furniture/equipment,good,little,male,210.0,Adults
+little,own,2,car,good,little,male,76.28571428571429,Adults
+little,rent,2,car,bad,little,female,220.33333333333334,Adults
+No checking,own,2,business,bad,little,male,231.38888888888889,Adults
+little,free,2,car,bad,No savings,male,231.52777777777777,Mature-Seniors
+moderate,free,2,business,good,No savings,male,139.1875,Adults
+No checking,own,2,business,good,quite rich,male,98.95833333333333,Mature-Seniors
+little,rent,2,car,bad,little,female,67.55555555555556,Young
+little,rent,2,business,bad,little,male,262.5777777777778,Young
+moderate,own,2,radio/TV,good,No savings,female,211.83333333333334,Mature-Seniors
+rich,own,1,radio/TV,bad,little,female,155.13333333333333,Young
+little,own,2,car,bad,little,male,90.16666666666667,Mature-Seniors
+No checking,own,2,radio/TV,good,No savings,female,73.83333333333333,Young
+No checking,rent,1,furniture/equipment,good,little,female,150.25,Young
+little,own,2,car,good,little,male,123.20833333333333,Mature-Seniors
+No checking,own,2,radio/TV,good,little,male,108.79166666666667,Mature-Seniors
+little,own,2,furniture/equipment,bad,little,male,143.86111111111111,Young
+No checking,own,1,car,good,little,male,142.52380952380952,Young
+No checking,own,2,repairs,bad,little,female,107.94444444444444,Young
+No checking,own,2,business,good,little,male,64.95833333333333,Mature-Seniors
+No checking,own,2,furniture/equipment,good,little,male,190.11111111111111,Mature-Seniors
+moderate,own,2,furniture/equipment,good,No savings,male,189.33333333333334,Adults
+No checking,rent,2,car,bad,No savings,male,375.6111111111111,Mature-Seniors
+No checking,own,2,car,good,little,male,52.041666666666664,Young
+little,own,2,radio/TV,good,little,male,151.55555555555554,Mature-Seniors
+little,own,1,radio/TV,bad,little,male,59.083333333333336,Mature-Seniors
+little,rent,2,car,bad,little,male,111.75,Adults
+No checking,own,2,car,good,No savings,male,168.41666666666666,Mature-Seniors
+No checking,free,2,radio/TV,good,little,male,98.06666666666666,Adults
+little,free,1,car,bad,little,male,80.11111111111111,Adults
+No checking,own,2,car,good,little,male,302.0833333333333,Mature-Seniors
+No checking,own,2,car,good,moderate,male,61.416666666666664,Adults
+No checking,own,2,education,good,No savings,female,89.4,Mature-Seniors
+No checking,free,2,furniture/equipment,good,little,male,222.86666666666667,Young
+little,own,2,car,bad,little,female,263.93333333333334,Young
+No checking,rent,2,car,good,moderate,male,397.44444444444446,Young
+No checking,own,2,car,good,rich,male,241.83333333333334,Young
+No checking,own,2,business,bad,little,male,120.5,Young
+little,own,2,radio/TV,bad,little,female,101.625,Adults
+No checking,own,1,furniture/equipment,good,rich,male,167.62962962962962,Adults
+No checking,rent,1,furniture/equipment,bad,little,male,221.0,Young
+No checking,rent,2,furniture/equipment,good,quite rich,female,148.06666666666666,Young
+little,own,2,radio/TV,good,little,female,132.72222222222223,Young
+No checking,own,2,furniture/equipment,good,little,male,277.5833333333333,Mature-Seniors
+No checking,own,2,business,good,No savings,male,205.80555555555554,Adults
+little,rent,2,furniture/equipment,good,little,female,54.333333333333336,Young
+No checking,own,2,furniture/equipment,good,quite rich,female,213.27777777777777,Mature-Seniors
+rich,own,2,car,good,little,male,223.83333333333334,Mature-Seniors
+little,own,2,business,good,moderate,male,57.583333333333336,Young
+No checking,own,2,domestic appliances,good,No savings,female,58.266666666666666,Young
+little,own,1,furniture/equipment,good,little,male,299.1666666666667,Young
+moderate,own,2,car,good,rich,female,120.18181818181819,Mature-Seniors
+little,free,3,radio/TV,good,little,male,107.77777777777777,Adults
+No checking,own,2,radio/TV,good,little,male,99.86111111111111,Young
+little,free,3,car,bad,little,male,158.0,Young
+No checking,own,2,radio/TV,good,No savings,male,224.73333333333332,Adults
+No checking,own,3,car,good,little,male,325.5833333333333,Adults
+No checking,free,2,car,good,No savings,male,386.5416666666667,Mature-Seniors
+moderate,own,2,car,good,No savings,male,72.7,Adults
+No checking,own,0,radio/TV,good,little,female,61.0,Mature-Seniors
+moderate,own,2,furniture/equipment,bad,little,male,169.04166666666666,Mature-Seniors
+little,own,2,education,bad,little,female,66.25,Mature-Seniors
+moderate,own,2,business,good,No savings,male,117.70833333333333,Adults
+moderate,own,2,business,bad,little,male,326.5,Young
+No checking,own,3,car,good,little,male,183.72222222222223,Adults
+No checking,rent,2,car,good,No savings,male,279.42857142857144,Mature-Seniors
+little,own,3,business,good,little,male,90.44444444444444,Mature-Seniors
+No checking,own,2,radio/TV,good,little,male,121.93333333333334,Mature-Seniors
+little,own,1,car,good,little,male,180.91666666666666,Adults
+moderate,own,2,car,good,little,male,161.11111111111111,Adults
+No checking,own,2,radio/TV,good,No savings,male,64.94444444444444,Young
+No checking,own,3,car,good,No savings,male,248.52777777777777,Adults
+little,rent,3,radio/TV,good,little,female,124.0952380952381,Young
+No checking,own,2,furniture/equipment,good,rich,female,132.66666666666666,Adults
+No checking,rent,1,furniture/equipment,good,No savings,female,145.73333333333332,Adults
+little,own,2,furniture/equipment,bad,little,male,230.72222222222223,Mature-Seniors
+little,rent,2,car,bad,little,male,164.0625,Mature-Seniors
+No checking,own,2,car,good,No savings,male,174.25,Mature-Seniors
+No checking,free,2,car,good,No savings,male,291.02777777777777,Mature-Seniors
+No checking,rent,2,radio/TV,good,No savings,male,92.4,Mature-Seniors
+No checking,own,3,radio/TV,good,little,male,53.25,Adults
+little,rent,3,radio/TV,good,little,male,92.25,Young
+little,own,1,car,good,No savings,male,179.1904761904762,Young
+moderate,own,2,education,good,No savings,male,103.08333333333333,Young
+No checking,own,1,car,good,little,female,239.6,Mature-Seniors
+moderate,own,1,car,good,No savings,female,355.0,Adults
+No checking,own,2,radio/TV,good,little,female,123.72222222222223,Adults
+moderate,own,1,furniture/equipment,bad,little,female,197.33333333333334,Young
+moderate,own,2,radio/TV,good,No savings,female,99.7,Young
+No checking,own,2,business,good,rich,male,194.72727272727272,Young
+little,rent,2,business,bad,little,male,131.70833333333334,Adults
+moderate,own,3,vacation/others,bad,little,female,383.8333333333333,Adults
+No checking,own,2,car,good,moderate,male,284.8,Adults
+little,own,3,car,bad,little,male,2482.6666666666665,Mature-Seniors
+little,own,2,furniture/equipment,bad,moderate,male,98.29166666666667,Adults
+little,rent,3,furniture/equipment,bad,little,male,139.375,Adults
+No checking,own,2,furniture/equipment,good,little,female,100.94444444444444,Young
+No checking,own,3,radio/TV,good,quite rich,male,265.6041666666667,Adults
+little,rent,2,radio/TV,bad,little,female,151.77777777777777,Young
+moderate,rent,2,car,good,little,male,166.83333333333334,Adults
+little,own,2,furniture/equipment,bad,little,male,286.3333333333333,Mature-Seniors
+little,own,2,car,bad,little,male,58.083333333333336,Mature-Seniors
+little,rent,2,furniture/equipment,good,little,female,58.27777777777778,Young
+little,free,2,car,bad,little,male,214.52083333333334,Adults
+No checking,own,2,radio/TV,good,No savings,male,62.233333333333334,Mature-Seniors
+little,own,1,car,good,little,male,112.0,Mature-Seniors
+little,own,1,furniture/equipment,good,little,male,72.79166666666667,Young
+moderate,own,2,radio/TV,bad,little,female,185.55555555555554,Young
+No checking,own,2,car,good,little,male,136.0,Adults
+No checking,own,2,radio/TV,good,quite rich,male,43.5,Mature-Seniors
+little,own,2,radio/TV,good,little,female,124.83333333333333,Young
+moderate,own,3,radio/TV,bad,moderate,male,63.96666666666667,Adults
+rich,own,1,radio/TV,bad,little,female,82.77777777777777,Young
+moderate,rent,3,radio/TV,good,little,male,343.8333333333333,Adults
+moderate,free,2,education,bad,little,male,104.8,Mature-Seniors
+No checking,own,3,car,good,No savings,male,285.0833333333333,Mature-Seniors
+No checking,own,3,car,good,No savings,male,293.9166666666667,Mature-Seniors
+No checking,own,1,car,good,little,male,154.6,Adults
+No checking,own,2,furniture/equipment,good,No savings,male,38.708333333333336,Adults
+No checking,own,1,car,good,little,male,363.75,Mature-Seniors
+little,rent,2,furniture/equipment,good,little,female,123.0,Mature-Seniors
+moderate,own,2,car,good,quite rich,female,174.125,Adults
+little,free,2,furniture/equipment,bad,quite rich,male,139.54166666666666,Adults
+No checking,own,3,car,good,No savings,male,238.25,Adults
+No checking,own,1,furniture/equipment,bad,little,male,85.16666666666667,Mature-Seniors
+No checking,own,2,radio/TV,bad,moderate,male,150.875,Adults
+moderate,own,0,business,good,little,male,199.44444444444446,Mature-Seniors
+little,own,2,business,bad,little,male,59.583333333333336,Young
+moderate,rent,2,car,bad,quite rich,female,171.375,Young
+No checking,own,3,furniture/equipment,bad,little,female,304.8333333333333,Young
+little,own,2,car,good,little,female,157.75,Young
+little,rent,3,radio/TV,good,rich,female,51.291666666666664,Mature-Seniors
+rich,own,1,radio/TV,good,No savings,male,121.86666666666666,Mature-Seniors
+moderate,own,1,radio/TV,good,little,male,128.22222222222223,Adults
+little,own,1,car,bad,little,male,143.07142857142858,Mature-Seniors
+moderate,free,2,furniture/equipment,good,moderate,male,127.875,Adults
+No checking,rent,2,radio/TV,good,little,male,290.0,Adults
+moderate,own,2,car,good,little,male,112.04761904761905,Mature-Seniors
+No checking,own,2,car,good,No savings,male,237.06666666666666,Young
+No checking,own,2,radio/TV,bad,quite rich,male,99.875,Adults
+moderate,own,1,repairs,good,little,male,75.66666666666667,Young
+moderate,own,2,radio/TV,good,No savings,female,57.166666666666664,Young
+moderate,own,1,radio/TV,bad,quite rich,male,93.33333333333333,Young
+No checking,rent,3,radio/TV,good,little,female,237.86666666666667,Mature-Seniors
+No checking,rent,2,radio/TV,good,No savings,male,170.61904761904762,Young
+little,own,1,car,good,little,male,358.09090909090907,Mature-Seniors
+moderate,own,2,repairs,good,moderate,male,100.93333333333334,Young
+No checking,own,1,car,good,little,male,308.0416666666667,Mature-Seniors
+little,rent,0,car,bad,little,female,49.708333333333336,Young
+little,rent,2,business,bad,little,male,121.61666666666666,Adults
+No checking,own,2,radio/TV,good,little,female,94.36666666666666,Adults
+rich,own,1,radio/TV,good,quite rich,female,52.416666666666664,Mature-Seniors
+moderate,own,2,radio/TV,good,little,female,125.5,Mature-Seniors
+moderate,own,2,business,good,No savings,male,134.83333333333334,Mature-Seniors
+No checking,own,1,car,bad,little,male,105.75,Mature-Seniors
+moderate,rent,2,car,bad,moderate,male,84.26666666666667,Young
+moderate,own,2,furniture/equipment,bad,little,male,279.53333333333336,Mature-Seniors
+No checking,rent,3,business,bad,little,male,100.91666666666667,Adults
+rich,own,3,car,good,moderate,female,139.1904761904762,Young
+little,own,2,car,bad,little,male,228.58333333333334,Young
+No checking,own,1,furniture/equipment,good,little,male,84.5,Adults
+little,rent,2,furniture/equipment,good,little,female,95.53333333333333,Young
+rich,own,2,business,good,little,male,149.73809523809524,Adults
+No checking,own,2,radio/TV,good,moderate,female,108.38461538461539,Mature-Seniors
+little,free,3,car,good,little,male,274.125,Young
+moderate,own,1,radio/TV,good,little,male,72.625,Mature-Seniors
+No checking,own,1,education,good,No savings,male,297.0833333333333,Adults
+No checking,own,1,radio/TV,good,moderate,male,104.6,Adults
+little,rent,1,radio/TV,good,No savings,male,107.55555555555556,Young
+little,own,3,furniture/equipment,good,little,male,109.97222222222223,Adults
+No checking,own,2,car,good,No savings,male,199.16666666666666,Mature-Seniors
+No checking,own,1,furniture/equipment,good,little,female,144.66666666666666,Adults
+little,own,3,car,good,little,male,128.56666666666666,Mature-Seniors
+No checking,own,2,radio/TV,good,little,male,67.0,Adults
+little,free,2,radio/TV,bad,little,male,41.0,Young
+moderate,own,2,car,good,moderate,male,101.68888888888888,Young

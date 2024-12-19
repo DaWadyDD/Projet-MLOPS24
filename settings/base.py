@@ -4,12 +4,14 @@ import os
 REPO_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
 
 # Chemins vers les répertoires de données
-RAW_DATA_DIR = os.path.normpath(os.path.join(REPO_DIR, 'data', 'raw'))
-FORMATTED_DATA_DIR = os.path.normpath(os.path.join(REPO_DIR, 'data', 'formated'))
-MODELS_DIR = os.path.normpath(os.path.join(REPO_DIR, 'data', 'models'))
+RAW_DATA_DIR = os.path.normpath(os.path.join(REPO_DIR, 'data', 'raw')) # du dataset brut
+FORMATTED_DATA_DIR = os.path.normpath(os.path.join(REPO_DIR, 'data', 'formated')) # du dataset formaté post traitement
+MODELS_DIR = os.path.normpath(os.path.join(REPO_DIR, 'data', 'models')) # pour les prévisions
 
 # Chemin d'accès au fichier de configuration pour le logging
 LOGGING_CONFIGURATION_FILE = os.path.normpath(os.path.join(os.path.dirname(__file__), 'logging.yaml'))
+
+"""Détection des repertoires"""
 
 # Vérification des répertoires
 for dir_path in [RAW_DATA_DIR, FORMATTED_DATA_DIR, MODELS_DIR]:

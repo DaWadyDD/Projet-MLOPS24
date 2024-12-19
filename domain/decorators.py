@@ -6,17 +6,17 @@ F = TypeVar('F', bound=Callable[..., Any])
 
 def log_function_call(func: F) -> F:
     """
-    Decorator for logging the function call and its arguments.
+    Décorateur pour enregistrer l'appel de fonction et ses arguments.
 
-    Parameters
+    Paramètres
     ----------
     func : Callable
-        Function to decorate.
+        Fonction à décorer.
 
-    Returns
+    Retourne
     -------
     Callable
-        Decorated function.
+        Fonction décorée.
     """
     @wraps(func)
     def wrapper(*args: Any, **kwargs: Any) -> Any:
