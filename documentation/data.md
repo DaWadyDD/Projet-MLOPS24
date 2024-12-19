@@ -6,4 +6,4 @@ This data is a simple data of german bank credit, the goal is to predict (Random
 * Create an account and download the data set ;
 * add the file in 'data/raw'.
 
-[README](README.md) | [setup](setup.md)>
+[Précédent](README.md) | [Suivant](setup.md)>

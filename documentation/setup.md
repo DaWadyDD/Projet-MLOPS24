@@ -8,4 +8,4 @@ Through the .py file in domain /domain/project_python
 
 The notebook contains more developped steps while the python file is a straightforward way to apply the whole project from importing the data to features engineering to modeling.
 
-<[data](data.md) | [README](README.md)>
+<[Précédent](data.md) | [Suivant](README.md)>
