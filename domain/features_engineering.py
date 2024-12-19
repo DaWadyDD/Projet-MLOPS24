@@ -71,9 +71,9 @@ def create_age_group(df: pd.DataFrame) -> pd.DataFrame:
 def drop_unnecessary_columns(df: pd.DataFrame) -> pd.DataFrame:
     """Supprimer les colonnes inutiles"""
     try:
-        logging.info("Suppression des colonnes inutiles : 'Checking account', 'Saving accounts', 'Age', 'Duration', 'Credit amount'.")
+        logging.info("Suppression des colonnes inutiles : 'Age', 'Duration', 'Credit amount'.")
         
-        columns_to_drop = ['Checking account', 'Saving accounts', 'Age', 'Duration', 'Credit amount']
+        columns_to_drop = ['Age', 'Duration', 'Credit amount']
         df.drop(columns=columns_to_drop, inplace=True, errors='ignore')
         
         logging.info(f"Colonnes supprimées : {columns_to_drop}.")
