@@ -4,7 +4,7 @@
 
 * Install all the dependencies needed.
 
-* Through the jupyter notebook in /Notebooks/credit_risk
+* Through the jupyter notebook in /notebooks/credit_risk
 
 * Through the .py file in /launcher.py
 
