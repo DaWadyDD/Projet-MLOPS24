@@ -3,3 +3,5 @@
 - Les dépendances spécifiées dans `requirements.txt`
 
 - pip install -r requirements.txt
+
+- Pour plus d'information → Documentation
